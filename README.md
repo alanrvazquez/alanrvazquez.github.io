@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/alanrvazquez/alanrvazquez.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am an Assistant Adjunct Professor at the [Department of Statistics at the University of California, Los Angeles](http://statistics.ucla.edu/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Published Papers
 
-### Markdown
+- Vazquez, A. R., Schoen, E. D., and Goos, P. (2019). A mixed integer optimization approach for model selection in screening experiments. *Journal of Quality Technology*. Published online.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Vazquez, A. R., Goos, P., and Schoen, E. D. (2019). Projections of definitive screening designs by dropping columns: Selection and evaluation. *Technometrics*, 62:37-47.
 
-```markdown
-Syntax highlighted code block
+- Vazquez, A. R., and Xu, H. (2019). Construction of two-level nonregular designs of strength three with large run sizes. *Technometrics*, 61:341-353.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+- Vazquez, A. R., Goos, P., and Schoen, E. D. (2019). Constructing two-level designs by concatenation of strength-3 orthogonal arrays. *Technometrics*, 61:219-232. 
 
-1. Numbered
-2. List
+- Goos, P., Syafitri, U., Sartono, B., and Vazquez, A. R. (2019).  A nonlinear multidimensional knapsack problem in the optimal design of mixture experiments. *European Journal of Operational Research*. 
 
-**Bold** and _Italic_ and `Code` text
+- Trigos, F., Vazquez, A. R., and C'ardenas-Barr'on, L. E. (2019). A simulation-based heuristic that promotes business profit while increasing the perceived quality of service industries. *International Journal of Production Economics*, 211:60-70.
 
-[Link](url) and ![Image](src)
-```
+- Eendebak, P. T. and Vazquez, A. R. (2019). OApackage: A Python package for generation and analysis of orthogonal arrays, optimal designs and conference designs. *Journal of Open Source Software*, 4:1097.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Maestroni, B. M., Vazquez, A. R., Avossa, V., Goos, P., Cesio, V., Heinzen, H., Riener, J., Cannavan, A. (2018). Ruggedness testing of an analytical method for pesticide residues in potato. *Accreditation and Quality Assurance*, 23:303-316.
 
-### Jekyll Themes
+- V'azquez-Alcocer, A., Garz'on, D. L., and S'anchez-Casas, R. M. (2014). LADES: A software for constructing and analyzing longitudinal designs in biomedical research. *PLoS ONE* 9(7): e100570.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alanrvazquez/alanrvazquez.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
