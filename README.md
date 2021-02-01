@@ -20,6 +20,6 @@ I am an Assistant Adjunct Professor at the [Department of Statistics at the Univ
 
 - Maestroni, B. M., Vazquez, A. R., Avossa, V., Goos, P., Cesio, V., Heinzen, H., Riener, J., Cannavan, A. (2018). Ruggedness testing of an analytical method for pesticide residues in potato. *Accreditation and Quality Assurance*, 23:303-316.
 
-- V\'{a}zquez-Alcocer, A., Garz\'{o}n, D. L., and S\'{a}nchez-Casas, R. M. (2014). LADES: A software for constructing and analyzing longitudinal designs in biomedical research. *PLoS ONE* 9(7): e100570.
+- Vázquez-Alcocer, A., Garz\'{o}n, D. L., and S\'{a}nchez-Casas, R. M. (2014). LADES: A software for constructing and analyzing longitudinal designs in biomedical research. *PLoS ONE* 9(7): e100570.
 
 
