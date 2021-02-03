@@ -1,6 +1,10 @@
 ## Welcome!
 
-I am an Assistant Adjunct Professor at the [Department of Statistics at the University of California, Los Angeles](http://statistics.ucla.edu/).
+I am an Assistant Adjunct Professor at the [Department of Statistics at the University of California, Los Angeles](http://statistics.ucla.edu/). Currently, I am also Junior Postdoctoral Fellow of the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)), Belgium. From July 2018 to September 2019, I was a Postdoctoral Researcher at the Department of Biosystems at [KU Leuven](https://www.biw.kuleuven.be/biosyst/english), Belgium. In May 2018, I obtained a Ph.D. in Applied Economics at the University of Antwerp, Belgium. 
+
+I was born and raised in Monterrey, Nuevo Leon, Mexico.
+
+My current email address is <alanrvazquez@stat.ucla.edu>
 
 ## Published Papers
 
