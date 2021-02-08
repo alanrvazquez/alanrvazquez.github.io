@@ -26,4 +26,13 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 - **Vázquez-Alcocer, A.**, Garzón, D. L., and Sánchez-Casas, R. M. (2014). LADES: A software for constructing and analyzing longitudinal designs in biomedical research. **PLoS ONE** 9(7): e100570.
 
+## Manuscripts Submited for Publication or In Preparation
+
+- **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2019). Two-level orthogonal screening designs with 80, 96 and 112 runs, and up to 29 factors. 
+
+- Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2020). Systematic enumeration of Definitive Screening Designs.
+
+- Schoen, E. D., **Vazquez, A. R.**, Schlösser, J., Atakunda, P., Muhoozi, G. K. M., Wacoo, A. P., Sybesma, W. G. H., Westerberg, A. C., Iversen, P. O., and Kort R. (2020). Model selection by mixed integer optimization discloses the butyrate-producing gut bacterium *Coprococcus eutactus* as predictor for language development in three-year-old rural Ugandan children. 
+
+- Staes, I., Bäcker, L. E., Simoens, K., De Winter, K., Marolt, G., Cenens, W., Wolput, S., **Vazquez, A. R.**, Goos, P, Lavigne, R., Bernaerts, K., and Aertsen, A. (2020). Superinfection exclusion factors allow for a history-dependent switch from vertical to horizontal phage transmission. 
 
