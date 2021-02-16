@@ -2,6 +2,12 @@
 
 I am an Assistant Adjunct Professor at the [Department of Statistics at the University of California, Los Angeles](http://statistics.ucla.edu/). Currently, I am also Junior Postdoctoral Fellow of the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)), Belgium. From July 2018 to September 2019, I was a Postdoctoral Researcher at the Department of Biosystems at [KU Leuven](https://www.biw.kuleuven.be/biosyst/english), Belgium. In May 2018, I obtained a Ph.D. in Applied Economics at the [University of Antwerp](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/), Belgium. 
 
+My research interests include:
+- Optimum Experimental Design
+- Computer Experiments
+- Model Selection
+- Discrete Optimization
+
 I was born and raised in Monterrey, Nuevo Leon, Mexico.
 
 My current email address is <alanrvazquez@stat.ucla.edu>
@@ -26,7 +32,7 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 - **Vázquez-Alcocer, A.**, Garzón, D. L., and Sánchez-Casas, R. M. (2014). LADES: A software for constructing and analyzing longitudinal designs in biomedical research. **PLoS ONE** 9(7): e100570.
 
-## Manuscripts Submited for Publication or In Preparation
+### Manuscripts Submited for Publication or In Preparation
 
 - **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2019). Two-level orthogonal screening designs with 80, 96 and 112 runs, and up to 29 factors. 
 
