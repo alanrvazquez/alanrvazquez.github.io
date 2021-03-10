@@ -34,7 +34,7 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 ### Manuscripts Submited for Publication or In Preparation
 
-- **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2021). Constructing two-level {$Q_B$}-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. In preparation.
+- **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2021). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. 
 
 
 - **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2019). Two-level orthogonal screening designs with 80, 96 and 112 runs, and up to 29 factors. 
