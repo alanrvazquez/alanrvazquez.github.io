@@ -47,7 +47,7 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 ## Recorded Presentations
 
-[_Constructing Optimal Screening Designs for Effective Experimentation using Metaheuristics_](https://vimeo.com/522352717). Invited presentation at the [Metaheuristic Optimization, Machine Learning and AI - Virtual Workshop](https://www.samsi.info/programs-and-activities/semester-long-programs/program-on-data-science-in-the-social-and-behavioral-sciences/nature-inspired-metaheuristic-algorithms-virtual-workshop/), March 10, 2021. The workshop was hosted by the [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info/).
+[_Constructing Optimal Screening Designs for Effective Experimentation using Metaheuristics_](https://vimeo.com/522352717). Invited presentation at the [Metaheuristic Optimization, Machine Learning and AI - Virtual Workshop](https://www.samsi.info/programs-and-activities/semester-long-programs/program-on-data-science-in-the-social-and-behavioral-sciences/nature-inspired-metaheuristic-algorithms-virtual-workshop/), March 10, 2021. The workshop was hosted by the Statistical and Applied Mathematical Sciences Institute ([SAMSI](https://www.samsi.info/)).
 
 [A brief self-introduction including my past and current research projects.](https://www.youtube.com/watch?v=yxGKEH0cBY4&ab_channel=UCLAStatistics)
 
