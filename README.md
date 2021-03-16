@@ -45,3 +45,9 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 - Staes, I., Bäcker, L. E., Simoens, K., De Winter, K., Marolt, G., Cenens, W., Wolput, S., **Vazquez, A. R.**, Goos, P, Lavigne, R., Bernaerts, K., and Aertsen, A. (2020). Superinfection exclusion factors allow for a history-dependent switch from vertical to horizontal phage transmission. 
 
+## Recorded Presentations
+
+[_Constructing Optimal Screening Designs for Effective Experimentation using Metaheuristics_](https://vimeo.com/522352717). Invited presentation at the [Metaheuristic Optimization, Machine Learning and AI - Virtual Workshop](https://www.samsi.info/programs-and-activities/semester-long-programs/program-on-data-science-in-the-social-and-behavioral-sciences/nature-inspired-metaheuristic-algorithms-virtual-workshop/), March 10, 2021. The workshop was hosted by the [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info/).
+
+
+
