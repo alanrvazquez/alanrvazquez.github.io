@@ -14,6 +14,8 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 ## Published Papers
 
+- **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2021). Two-level orthogonal screening designs with 80, 96 and 112 runs, and up to 29 factors. **Journal of Quality Technology**. Accepted. 
+
 - **Vazquez, A. R.**, Schoen, E. D., and Goos, P. (2020). A mixed integer optimization approach for model selection in screening experiments. **Journal of Quality Technology**. Published online.
 
 - Goos, P., Syafitri, U., Sartono, B., and **Vazquez, A. R.** (2020).  A nonlinear multidimensional knapsack problem in the optimal design of mixture experiments. **European Journal of Operational Research**, 281:201-221. 
@@ -35,9 +37,6 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 ### Manuscripts Submited for Publication or In Preparation
 
 - **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2021). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. 
-
-
-- **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2019). Two-level orthogonal screening designs with 80, 96 and 112 runs, and up to 29 factors. 
 
 - Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2020). Systematic enumeration of Definitive Screening Designs.
 
