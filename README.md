@@ -54,7 +54,9 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 ## Teaching
 
 STATS 101A. Introduction to Data Analysis and Regression (Winter 2022).
+
 STATS 101B. Introduction to Design and Analysis of Experiments (Spring 2021).
+
 STATS 101C. Introduction to Statistical Models and Data Mining (Fall 2020).
 
 
