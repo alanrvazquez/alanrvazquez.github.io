@@ -16,6 +16,8 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 - **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2021). Two-level orthogonal screening designs with 80, 96 and 112 runs, and up to 29 factors. **Journal of Quality Technology**. Accepted. 
 
+- Kort R., Schlösser, J., **Vazquez, A. R.**, Atakunda, P., Muhoozi, G. K. M., Wacoo, A. P., Sybesma, W. G. H., Westerberg, A. C., Iversen, P. O.,  and Schoen E. D. (2021). Model selection reveals the butyrate-producing gut bacterium Coprococcus eutactus as predictor for language development in three-year-old rural Ugandan children. **Frontiers in Microbiology, section Systems Microbiology**. Accepted.
+
 - **Vazquez, A. R.**, Schoen, E. D., and Goos, P. (2020). A mixed integer optimization approach for model selection in screening experiments. **Journal of Quality Technology**. Published online.
 
 - Goos, P., Syafitri, U., Sartono, B., and **Vazquez, A. R.** (2020).  A nonlinear multidimensional knapsack problem in the optimal design of mixture experiments. **European Journal of Operational Research**, 281:201-221. 
@@ -39,8 +41,6 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 - **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2021). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. 
 
 - Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2020). Systematic enumeration of Definitive Screening Designs.
-
-- Schoen, E. D., **Vazquez, A. R.**, Schlösser, J., Atakunda, P., Muhoozi, G. K. M., Wacoo, A. P., Sybesma, W. G. H., Westerberg, A. C., Iversen, P. O., and Kort R. (2020). Model selection by mixed integer optimization discloses the butyrate-producing gut bacterium *Coprococcus eutactus* as predictor for language development in three-year-old rural Ugandan children. 
 
 - Staes, I., Bäcker, L. E., Simoens, K., De Winter, K., Marolt, G., Cenens, W., Wolput, S., **Vazquez, A. R.**, Goos, P, Lavigne, R., Bernaerts, K., and Aertsen, A. (2020). Superinfection exclusion factors allow for a history-dependent switch from vertical to horizontal phage transmission. 
 
