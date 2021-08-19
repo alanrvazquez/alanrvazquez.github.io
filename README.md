@@ -40,11 +40,11 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 - **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2021). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. Submitted.
 
-- Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2020). Systematic enumeration of definitive screening designs. Submitted.
+- Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2021). Systematic enumeration of definitive screening designs. Submitted.
 
-- Eendebak, P. T., Schoen, E. D., **Vazquez, A. R.**, and Goos, P. (2020). Systematic enumeration of two-level even-odd designs. In preparation.
+- Eendebak, P. T., Schoen, E. D., **Vazquez, A. R.**, and Goos, P. (2021). Systematic enumeration of two-level even-odd designs. In preparation.
 
-- Staes, I., Bäcker, L. E., Simoens, K., De Winter, K., Marolt, G., Cenens, W., Wolput, S., **Vazquez, A. R.**, Goos, P, Lavigne, R., Bernaerts, K., and Aertsen, A. (2020). Superinfection exclusion factors allow for a history-dependent switch from vertical to horizontal phage transmission. In preparation.
+- Staes, I., Bäcker, L. E., Simoens, K., De Winter, K., Marolt, G., Cenens, W., Wolput, S., **Vazquez, A. R.**, Goos, P, Lavigne, R., Bernaerts, K., and Aertsen, A. (2021). Superinfection exclusion factors allow for a history-dependent switch from vertical to horizontal phage transmission. In preparation.
 
 ## Recorded Presentations
 
