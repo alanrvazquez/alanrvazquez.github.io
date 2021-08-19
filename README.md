@@ -16,9 +16,9 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 - **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2021). Two-level orthogonal screening designs with 80, 96 and 112 runs, and up to 29 factors. **Journal of Quality Technology**. Published online. 
 
-- Kort R., Schlösser, J., **Vazquez, A. R.**, Atakunda, P., Muhoozi, G. K. M., Wacoo, A. P., Sybesma, W. G. H., Westerberg, A. C., Iversen, P. O.,  and Schoen E. D. (2021). Model selection reveals the butyrate-producing gut bacterium Coprococcus eutactus as predictor for language development in three-year-old rural Ugandan children. **Frontiers in Microbiology, section Systems Microbiology**. Published online.
+- Kort R., Schlösser, J., **Vazquez, A. R.**, Atakunda, P., Muhoozi, G. K. M., Wacoo, A. P., Sybesma, W. G. H., Westerberg, A. C., Iversen, P. O.,  and Schoen E. D. (2021). Model selection reveals the butyrate-producing gut bacterium Coprococcus eutactus as predictor for language development in three-year-old rural Ugandan children. **Frontiers in Microbiology, section Systems Microbiology**, 12:1-14.
 
-- **Vazquez, A. R.**, Schoen, E. D., and Goos, P. (2020). A mixed integer optimization approach for model selection in screening experiments. **Journal of Quality Technology**. Published online.
+- **Vazquez, A. R.**, Schoen, E. D., and Goos, P. (2021). A mixed integer optimization approach for model selection in screening experiments. **Journal of Quality Technology**, 53:243-266.
 
 - Goos, P., Syafitri, U., Sartono, B., and **Vazquez, A. R.** (2020).  A nonlinear multidimensional knapsack problem in the optimal design of mixture experiments. **European Journal of Operational Research**, 281:201-221. 
 
