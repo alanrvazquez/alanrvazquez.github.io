@@ -28,7 +28,7 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 - **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2019). Constructing two-level designs by concatenation of strength-3 orthogonal arrays. **Technometrics**, 61:219-232. 
 
-- Trigos, F., **Vazquez, A. R.**, and C'ardenas-Barrón, L. E. (2019). A simulation-based heuristic that promotes business profit while increasing the perceived quality of service industries. **International Journal of Production Economics**, 211:60-70.
+- Trigos, F., **Vazquez, A. R.**, and Cárdenas-Barrón, L. E. (2019). A simulation-based heuristic that promotes business profit while increasing the perceived quality of service industries. **International Journal of Production Economics**, 211:60-70.
 
 - Eendebak, P. T. and **Vazquez, A. R.** (2019). OApackage: A Python package for generation and analysis of orthogonal arrays, optimal designs and conference designs. **Journal of Open Source Software**, 4:1097.
 
