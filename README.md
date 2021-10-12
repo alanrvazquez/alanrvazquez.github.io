@@ -38,6 +38,8 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 ### Manuscripts Submited for Publication or In Preparation
 
+- **Vazquez, A. R.** and Xu, H. (2021). An integer programming approach for constructing maximin distance designs from good lattice point sets and the Williams' transformation. Submitted.
+
 - **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2021). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. Submitted.
 
 - Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2021). Systematic enumeration of definitive screening designs. Submitted.
@@ -49,7 +51,7 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 ## Recorded Presentations
 
-[_Two-level orthogonal designs for intensive screening experiments: Construction and evaluation (in Spanish)._](https://www.facebook.com/fime.oficial/videos/272984141000518). Invited presentation at the Conference in Honor of Guadalupe Evaristo Cedillo-Garza, Autonomous University of Nuevo Leon. August, 2021.
+[_Two-level orthogonal designs for intensive screening experiments: Construction and evaluation (in Spanish)_](https://www.facebook.com/fime.oficial/videos/272984141000518). Invited presentation at the Conference in Honor of Guadalupe Evaristo Cedillo-Garza, Autonomous University of Nuevo Leon. August, 2021.
 
 [_Constructing Optimal Screening Designs for Effective Experimentation using Metaheuristics_](https://vimeo.com/522352717). Invited presentation at the [Metaheuristic Optimization, Machine Learning and AI - Virtual Workshop](https://www.samsi.info/programs-and-activities/semester-long-programs/program-on-data-science-in-the-social-and-behavioral-sciences/nature-inspired-metaheuristic-algorithms-virtual-workshop/). March 10, 2021. The workshop was hosted by the Statistical and Applied Mathematical Sciences Institute ([SAMSI](https://www.samsi.info/)).
 
