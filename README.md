@@ -48,6 +48,9 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 - Eendebak, P. T., Schoen, E. D., **Vazquez, A. R.**, and Goos, P. (2021). Systematic enumeration of two-level even-odd designs. In preparation.
 
+## Grants
+
+Flemish Fund for Scientific Research (FWO) - Junior Postdoctoral Fellowship.
 
 ## Recorded Presentations
 
