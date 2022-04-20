@@ -14,6 +14,8 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 ## Published Papers
 
+- Staes, I., Bäcker, L. E., Simoens, K., De Winter, K., Marolt, G., Cenens, W., Wolput, S., **Vazquez, A. R.**, Goos, P, Lavigne, R., Bernaerts, K., and Aertsen, A. (2021). Superinfection exclusion factors allow for a history-dependent switch from vertical to horizontal phage transmission. **Cell Reports**. Accepted.
+
 - **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2021). Two-level orthogonal screening designs with 80, 96 and 112 runs, and up to 29 factors. **Journal of Quality Technology**. Published online. 
 
 - Kort R., Schlösser, J., **Vazquez, A. R.**, Atakunda, P., Muhoozi, G. K. M., Wacoo, A. P., Sybesma, W. G. H., Westerberg, A. C., Iversen, P. O.,  and Schoen E. D. (2021). Model selection reveals the butyrate-producing gut bacterium Coprococcus eutactus as predictor for language development in three-year-old rural Ugandan children. **Frontiers in Microbiology, section Systems Microbiology**, 12:1-14.
@@ -43,8 +45,6 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 - **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2021). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. Submitted.
 
 - Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2021). Systematic enumeration of definitive screening designs. Submitted.
-
-- Staes, I., Bäcker, L. E., Simoens, K., De Winter, K., Marolt, G., Cenens, W., Wolput, S., **Vazquez, A. R.**, Goos, P, Lavigne, R., Bernaerts, K., and Aertsen, A. (2021). Superinfection exclusion factors allow for a history-dependent switch from vertical to horizontal phage transmission. Submitted.
 
 - Eendebak, P. T., Schoen, E. D., **Vazquez, A. R.**, and Goos, P. (2021). Systematic enumeration of two-level even-odd designs. In preparation.
 
