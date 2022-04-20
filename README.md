@@ -40,13 +40,13 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 ### Manuscripts Submited for Publication or In Preparation
 
-- **Vazquez, A. R.** and Xu, H. (2021). An integer programming approach for constructing maximin distance designs from good lattice point sets and the Williams' transformation. Submitted.
+- **Vazquez, A. R.** and Xu, H. (2021). An integer programming approach for constructing maximin distance designs from good lattice point sets and the Williams' transformation. In review.
 
 - **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2021). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. Submitted.
 
 - Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2021). Systematic enumeration of definitive screening designs. Submitted.
 
-- Eendebak, P. T., Schoen, E. D., **Vazquez, A. R.**, and Goos, P. (2021). Systematic enumeration of two-level even-odd designs. In preparation.
+- Eendebak, P. T., Schoen, E. D., **Vazquez, A. R.**, and Goos, P. (2022). Systematic enumeration of two-level even-odd designs. Submitted.
 
 ## Grants
 
