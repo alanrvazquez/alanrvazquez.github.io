@@ -1,6 +1,6 @@
 ## Welcome!
 
-I am an Assistant Adjunct Professor at the [Department of Statistics at the University of California, Los Angeles](http://statistics.ucla.edu/). Currently, I am also Junior Postdoctoral Fellow of the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)), Belgium. From July 2018 to September 2019, I was a Postdoctoral Researcher at the Department of Biosystems at [KU Leuven](https://www.biw.kuleuven.be/biosyst/english), Belgium. In May 2018, I obtained a Ph.D. in Applied Economics at the [University of Antwerp](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/), Belgium. The supervisors of my Ph.D. thesis were Prof. [Peter Goos](http://www.experimental-design.eu/who/) and Dr. [Eric Schoen](http://www.experimental-design.eu/who/). You can find a copy of my CV in this [link](https://github.com/alanrvazquez/alanrvazquez.github.io/blob/main/cv_Alan_Vazquez.pdf).
+I am an Assistant Professor at the [Department of Industrial Engineering at the University of Arkansas](https://industrial-engineering.uark.edu/). Previously, I was an Assistant Adjunct Professor at the [Department of Statistics at the University of California, Los Angeles](http://statistics.ucla.edu/), and a Junior Postdoctoral Fellow of the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)), Belgium. From July 2018 to September 2019, I was a Postdoctoral Researcher at the Department of Biosystems at [KU Leuven](https://www.biw.kuleuven.be/biosyst/english), Belgium. In May 2018, I obtained a Ph.D. in Applied Economics at the [University of Antwerp](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/), Belgium. The supervisors of my Ph.D. thesis were Prof. [Peter Goos](http://www.experimental-design.eu/who/) and Dr. [Eric Schoen](http://www.experimental-design.eu/who/). You can find a copy of my CV in this [link](https://github.com/alanrvazquez/alanrvazquez.github.io/blob/main/cv_Alan_Vazquez.pdf).
 
 My research interests include:
 - Optimum Experimental Design
@@ -10,17 +10,17 @@ My research interests include:
 
 I was born and raised in Monterrey, Nuevo Leon, Mexico.
 
-My current email address is <alanrvazquez@stat.ucla.edu>
+My current email address is <alanv@uark.edu>
 
 ## Published Papers
 
-- Staes, I., Bäcker, L. E., Simoens, K., De Winter, K., Marolt, G., Cenens, W., Wolput, S., **Vazquez, A. R.**, Goos, P, Lavigne, R., Bernaerts, K., and Aertsen, A. (2021). Superinfection exclusion factors allow for a history-dependent switch from vertical to horizontal phage transmission. **Cell Reports**. Accepted.
+- **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2022). Two-level orthogonal screening designs with 80, 96 and 112 runs, and up to 29 factors. **Journal of Quality Technology**, 54:338-358.
 
-- **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2021). Two-level orthogonal screening designs with 80, 96 and 112 runs, and up to 29 factors. **Journal of Quality Technology**. Published online. 
-
-- Kort R., Schlösser, J., **Vazquez, A. R.**, Atakunda, P., Muhoozi, G. K. M., Wacoo, A. P., Sybesma, W. G. H., Westerberg, A. C., Iversen, P. O.,  and Schoen E. D. (2021). Model selection reveals the butyrate-producing gut bacterium Coprococcus eutactus as predictor for language development in three-year-old rural Ugandan children. **Frontiers in Microbiology, section Systems Microbiology**, 12:1-14.
+- Staes, I., Bäcker, L. E., Simoens, K., De Winter, K., Marolt, G., Cenens, W., Wolput, S., **Vazquez, A. R.**, Goos, P, Lavigne, R., Bernaerts, K., and Aertsen, A. (2022). Superinfection exclusion factors allow for a history-dependent switch from vertical to horizontal phage transmission. **Cell Reports**, 39:110804. 
 
 - **Vazquez, A. R.**, Schoen, E. D., and Goos, P. (2021). A mixed integer optimization approach for model selection in screening experiments. **Journal of Quality Technology**, 53:243-266.
+
+- Kort R., Schlösser, J., **Vazquez, A. R.**, Atakunda, P., Muhoozi, G. K. M., Wacoo, A. P., Sybesma, W. G. H., Westerberg, A. C., Iversen, P. O.,  and Schoen E. D. (2021). Model selection reveals the butyrate-producing gut bacterium Coprococcus eutactus as predictor for language development in three-year-old rural Ugandan children. **Frontiers in Microbiology, section Systems Microbiology**, 12:1-14.
 
 - Goos, P., Syafitri, U., Sartono, B., and **Vazquez, A. R.** (2020).  A nonlinear multidimensional knapsack problem in the optimal design of mixture experiments. **European Journal of Operational Research**, 281:201-221. 
 
@@ -40,17 +40,13 @@ My current email address is <alanrvazquez@stat.ucla.edu>
 
 ### Manuscripts Submited for Publication or In Preparation
 
-- **Vazquez, A. R.** and Xu, H. (2021). An integer programming approach for constructing maximin distance designs from good lattice point sets and the Williams' transformation. In review.
+- **Vazquez, A. R.** and Xu, H. (2022). An integer programming approach for constructing maximin distance designs from good lattice point sets and the Williams' transformation. In review.
 
-- **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2021). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. Submitted.
+- **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2022). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. In review.
 
-- Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2021). Systematic enumeration of definitive screening designs. Submitted.
+- Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2022). Systematic enumeration of definitive screening designs. In review.
 
-- Eendebak, P. T., Schoen, E. D., **Vazquez, A. R.**, and Goos, P. (2022). Systematic enumeration of two-level even-odd designs. Submitted.
-
-## Grants
-
-Flemish Fund for Scientific Research (FWO) - Junior Postdoctoral Fellowship.
+- Eendebak, P. T., Schoen, E. D., **Vazquez, A. R.**, and Goos, P. (2022). Systematic enumeration of two-level even-odd designs. In review.
 
 ## Recorded Presentations
 
@@ -63,11 +59,7 @@ Flemish Fund for Scientific Research (FWO) - Junior Postdoctoral Fellowship.
 
 ## Teaching
 
-STATS 101A. Introduction to Data Analysis and Regression (Winter 2022).
-
-STATS 101B. Introduction to Design and Analysis of Experiments (Spring 2021).
-
-STATS 101C. Introduction to Statistical Models and Data Mining (Fall 2020).
+STATS 514V. Introduction to Industrial Statistics (Fall 2022).
 
 
 
