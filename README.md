@@ -48,6 +48,10 @@ My current email address is <alanv@uark.edu>
 
 - Eendebak, P. T., Schoen, E. D., **Vazquez, A. R.**, and Goos, P. (2022). Systematic enumeration of two-level even-odd designs. In review.
 
+- **Vazquez, A. R.** and Wong, W.-K. (2022). Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data. Submitted.
+
+- Xuan, X. and **Vazquez, A. R.** (2022). A review of undergraduate courses in Design of Experiments offered by American universities. In preparation.
+
 ## Recorded Presentations
 
 [_Two-level orthogonal designs for intensive screening experiments: Construction and evaluation (in Spanish)_](https://www.facebook.com/fime.oficial/videos/272984141000518). Invited presentation at the Conference in Honor of Guadalupe Evaristo Cedillo-Garza, Autonomous University of Nuevo Leon. August, 2021.
