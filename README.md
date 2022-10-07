@@ -14,35 +14,35 @@ My current email address is <alanv@uark.edu>
 
 ## Published Papers
 
-1. **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2022). Two-level orthogonal screening designs with 80, 96 and 112 runs, and up to 29 factors. **Journal of Quality Technology**, 54:338-358.
+1. **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2022). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. Accepted for publication in **Statistics and Computing**.
 
-2. Staes, I., Bäcker, L. E., Simoens, K., De Winter, K., Marolt, G., Cenens, W., Wolput, S., **Vazquez, A. R.**, Goos, P, Lavigne, R., Bernaerts, K., and Aertsen, A. (2022). Superinfection exclusion factors allow for a history-dependent switch from vertical to horizontal phage transmission. **Cell Reports**, 39:110804. 
+2. **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2022). Two-level orthogonal screening designs with 80, 96 and 112 runs, and up to 29 factors. **Journal of Quality Technology**, 54:338-358.
 
-3. **Vazquez, A. R.**, Schoen, E. D., and Goos, P. (2021). A mixed integer optimization approach for model selection in screening experiments. **Journal of Quality Technology**, 53:243-266.
+3. Staes, I., Bäcker, L. E., Simoens, K., De Winter, K., Marolt, G., Cenens, W., Wolput, S., **Vazquez, A. R.**, Goos, P, Lavigne, R., Bernaerts, K., and Aertsen, A. (2022). Superinfection exclusion factors allow for a history-dependent switch from vertical to horizontal phage transmission. **Cell Reports**, 39:110804. 
 
-4. Kort R., Schlösser, J., **Vazquez, A. R.**, Atakunda, P., Muhoozi, G. K. M., Wacoo, A. P., Sybesma, W. G. H., Westerberg, A. C., Iversen, P. O.,  and Schoen E. D. (2021). Model selection reveals the butyrate-producing gut bacterium Coprococcus eutactus as predictor for language development in three-year-old rural Ugandan children. **Frontiers in Microbiology, section Systems Microbiology**, 12:1-14.
+4. **Vazquez, A. R.**, Schoen, E. D., and Goos, P. (2021). A mixed integer optimization approach for model selection in screening experiments. **Journal of Quality Technology**, 53:243-266.
 
-5. Goos, P., Syafitri, U., Sartono, B., and **Vazquez, A. R.** (2020).  A nonlinear multidimensional knapsack problem in the optimal design of mixture experiments. **European Journal of Operational Research**, 281:201-221. 
+5. Kort R., Schlösser, J., **Vazquez, A. R.**, Atakunda, P., Muhoozi, G. K. M., Wacoo, A. P., Sybesma, W. G. H., Westerberg, A. C., Iversen, P. O.,  and Schoen E. D. (2021). Model selection reveals the butyrate-producing gut bacterium Coprococcus eutactus as predictor for language development in three-year-old rural Ugandan children. **Frontiers in Microbiology, section Systems Microbiology**, 12:1-14.
 
-6. **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2019). Projections of definitive screening designs by dropping columns: Selection and evaluation. **Technometrics**, 62:37-47.
+6. Goos, P., Syafitri, U., Sartono, B., and **Vazquez, A. R.** (2020).  A nonlinear multidimensional knapsack problem in the optimal design of mixture experiments. **European Journal of Operational Research**, 281:201-221. 
 
-7. **Vazquez, A. R.**, and Xu, H. (2019). Construction of two-level nonregular designs of strength three with large run sizes. **Technometrics**, 61:341-353.
+7. **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2019). Projections of definitive screening designs by dropping columns: Selection and evaluation. **Technometrics**, 62:37-47.
 
-8. **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2019). Constructing two-level designs by concatenation of strength-3 orthogonal arrays. **Technometrics**, 61:219-232. 
+8. **Vazquez, A. R.**, and Xu, H. (2019). Construction of two-level nonregular designs of strength three with large run sizes. **Technometrics**, 61:341-353.
 
-9. Trigos, F., **Vazquez, A. R.**, and Cárdenas-Barrón, L. E. (2019). A simulation-based heuristic that promotes business profit while increasing the perceived quality of service industries. **International Journal of Production Economics**, 211:60-70.
+9. **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2019). Constructing two-level designs by concatenation of strength-3 orthogonal arrays. **Technometrics**, 61:219-232. 
 
-10. Eendebak, P. T. and **Vazquez, A. R.** (2019). OApackage: A Python package for generation and analysis of orthogonal arrays, optimal designs and conference designs. **Journal of Open Source Software**, 4:1097.
+10. Trigos, F., **Vazquez, A. R.**, and Cárdenas-Barrón, L. E. (2019). A simulation-based heuristic that promotes business profit while increasing the perceived quality of service industries. **International Journal of Production Economics**, 211:60-70.
 
-11. Maestroni, B. M., **Vazquez, A. R.**, Avossa, V., Goos, P., Cesio, V., Heinzen, H., Riener, J., Cannavan, A. (2018). Ruggedness testing of an analytical method for pesticide residues in potato. **Accreditation and Quality Assurance**, 23:303-316.
+11. Eendebak, P. T. and **Vazquez, A. R.** (2019). OApackage: A Python package for generation and analysis of orthogonal arrays, optimal designs and conference designs. **Journal of Open Source Software**, 4:1097.
 
-12. **Vázquez-Alcocer, A.**, Garzón, D. L., and Sánchez-Casas, R. M. (2014). LADES: A software for constructing and analyzing longitudinal designs in biomedical research. **PLoS ONE** 9(7): e100570.
+12. Maestroni, B. M., **Vazquez, A. R.**, Avossa, V., Goos, P., Cesio, V., Heinzen, H., Riener, J., Cannavan, A. (2018). Ruggedness testing of an analytical method for pesticide residues in potato. **Accreditation and Quality Assurance**, 23:303-316.
+
+13. **Vázquez-Alcocer, A.**, Garzón, D. L., and Sánchez-Casas, R. M. (2014). LADES: A software for constructing and analyzing longitudinal designs in biomedical research. **PLoS ONE** 9(7): e100570.
 
 ### Manuscripts Submited for Publication or In Preparation
 
 - **Vazquez, A. R.** and Xu, H. (2022). An integer programming approach for constructing maximin distance designs from good lattice point sets and the Williams' transformation. In review.
-
-- **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2022). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. In review.
 
 - Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2022). Systematic enumeration of definitive screening designs. In review.
 
