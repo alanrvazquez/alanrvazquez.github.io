@@ -50,7 +50,7 @@ My current email address is <alanv@uark.edu>
 
 - **Vazquez, A. R.** and Wong, W.-K. (2022). Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data. Submitted.
 
-- Xuan, X. and **Vazquez, A. R.** (2022). A review of undergraduate courses in Design of Experiments offered by American universities. In preparation.
+- **Vazquez, A. R.** and Xuan, X. (2022). A review of undergraduate courses in Design of Experiments offered by American universities. Submitted.
 
 ## Recorded Presentations
 
@@ -65,7 +65,9 @@ My current email address is <alanv@uark.edu>
 
 ## Teaching
 
-STATS 514V. Introduction to Industrial Statistics (Fall 2022).
+INEG 514V. Introduction to Industrial Statistics (Fall 2022).
+
+INEG 4163. Modern Statistical Techniques for Industrial Applications (Spring 2023).
 
 
 
