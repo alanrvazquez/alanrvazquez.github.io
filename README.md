@@ -16,9 +16,9 @@ My current email address is <alanv@uark.edu>
 
 1. **Vazquez, A. R.** and Xu, H. (2022). An integer programming algorithm for constructing maximin distance designs from good lattice point sets. **Statistica Sinica**. Published Online.
 
-2. **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2022). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. Accepted for publication in **Statistics and Computing**.
+2. **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2022). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. **Statistics and Computing**. Published Online.
 
-3. Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2022). Systematic enumeration of definitive screening designs. Accepted for publication in **Statistics and Computing**.
+3. Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2022). Systematic enumeration of definitive screening designs. **Statistics and Computing**. Published Online.
 
 4. **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2022). Two-level orthogonal screening designs with 80, 96 and 112 runs, and up to 29 factors. **Journal of Quality Technology**, 54:338-358.
 
