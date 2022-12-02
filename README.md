@@ -16,9 +16,9 @@ My current email address is <alanv@uark.edu>
 
 1. **Vazquez, A. R.** and Xu, H. (2022). An integer programming algorithm for constructing maximin distance designs from good lattice point sets. **Statistica Sinica**. Published Online.
 
-2. **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2022). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. Accepted for publication in **Statistics and Computing**.
+2. **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2022). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. **Statistics and Computing**. Published Online.
 
-3. Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2022). Systematic enumeration of definitive screening designs. Accepted for publication in **Statistics and Computing**.
+3. Schoen, E. D., Eendebak, P. T., **Vazquez, A. R.**, and Goos, P. (2022). Systematic enumeration of definitive screening designs. **Statistics and Computing**. Published Online.
 
 4. **Vazquez, A. R.**, Goos, P., and Schoen, E. D. (2022). Two-level orthogonal screening designs with 80, 96 and 112 runs, and up to 29 factors. **Journal of Quality Technology**, 54:338-358.
 
@@ -50,7 +50,7 @@ My current email address is <alanv@uark.edu>
 
 - **Vazquez, A. R.** and Wong, W.-K. (2022). Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data. Submitted.
 
-- Xuan, X. and **Vazquez, A. R.** (2022). A review of undergraduate courses in Design of Experiments offered by American universities. In preparation.
+- **Vazquez, A. R.** and Xuan, X. (2022). A review of undergraduate courses in Design of Experiments offered by American universities. Submitted.
 
 ## Recorded Presentations
 
@@ -65,7 +65,9 @@ My current email address is <alanv@uark.edu>
 
 ## Teaching
 
-STATS 514V. Introduction to Industrial Statistics (Fall 2022).
+INEG 514V. Introduction to Industrial Statistics (Fall 2022).
+
+INEG 4163. Modern Statistical Techniques for Industrial Applications (Spring 2023).
 
 
 
