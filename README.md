@@ -52,6 +52,10 @@ My current email address is <alanv@uark.edu>
 
 - **Vazquez, A. R.** and Xuan, X. (2022). A review of undergraduate courses in Design of Experiments offered by American universities. Submitted.
 
+## Funding
+
+[AI SUSTAIN](https://www.aisustein.com/)
+
 ## Recorded Presentations
 
 [_An integer programming approach for constructing cost-efficient designs for computer experiments (in Spanish)_](https://youtu.be/JHBGej4nsT8). Invited presentation at the 55th National Congress of the Mexican Mathematical Society. October, 2022.
