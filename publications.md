@@ -1,19 +1,3 @@
-## Welcome!
-
-I am an Assistant Professor at the [Department of Industrial Engineering at the University of Arkansas](https://industrial-engineering.uark.edu/). Previously, I was an Assistant Adjunct Professor at the [Department of Statistics at the University of California, Los Angeles](http://statistics.ucla.edu/), and a Junior Postdoctoral Fellow of the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)), Belgium. From July 2018 to September 2019, I was a Postdoctoral Researcher at the Department of Biosystems at [KU Leuven](https://www.biw.kuleuven.be/biosyst/english), Belgium. In May 2018, I obtained a Ph.D. in Applied Economics at the [University of Antwerp](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/), Belgium. The supervisors of my Ph.D. thesis were Prof. [Peter Goos](http://www.experimental-design.eu/who/) and Dr. [Eric Schoen](http://www.experimental-design.eu/who/). You can find a copy of my CV in this [link](https://github.com/alanrvazquez/alanrvazquez.github.io/blob/main/cv_Alan_Vazquez.pdf).
-
-My research interests include:
-- Optimum Experimental Design
-- Computer Experiments
-- Model Selection
-- Discrete Optimization
-
-I was born and raised in Monterrey, Nuevo Leon, Mexico.
-
-My current email address is <alanv@uark.edu>
-
-See [link](https://github.com/alanrvazquez/alanrvazquez.github.io/blob/main/cv_Alan_Vazquez.pdf)
-
 ## Published Papers
 
 1. **Vazquez, A. R.** and Xu, H. (2022). An integer programming algorithm for constructing maximin distance designs from good lattice point sets. **Statistica Sinica**. Published Online.
@@ -53,27 +37,4 @@ See [link](https://github.com/alanrvazquez/alanrvazquez.github.io/blob/main/cv_A
 - **Vazquez, A. R.** and Wong, W.-K. (2022). Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data. Submitted.
 
 - **Vazquez, A. R.** and Xuan, X. (2022). A review of undergraduate courses in Design of Experiments offered by American universities. Submitted.
-
-## Funding
-
-[AI SUSTAIN](https://www.aisustein.com/)
-
-## Recorded Presentations
-
-[_An integer programming approach for constructing cost-efficient designs for computer experiments (in Spanish)_](https://youtu.be/JHBGej4nsT8). Invited presentation at the 55th National Congress of the Mexican Mathematical Society. October, 2022.
-
-[_Two-level orthogonal designs for intensive screening experiments: Construction and evaluation (in Spanish)_](https://www.facebook.com/fime.oficial/videos/272984141000518). Invited presentation at the Conference in Honor of Guadalupe Evaristo Cedillo-Garza, Autonomous University of Nuevo Leon. August, 2021.
-
-[_Constructing Optimal Screening Designs for Effective Experimentation using Metaheuristics_](https://vimeo.com/522352717). Invited presentation at the [Metaheuristic Optimization, Machine Learning and AI - Virtual Workshop](https://www.samsi.info/programs-and-activities/semester-long-programs/program-on-data-science-in-the-social-and-behavioral-sciences/nature-inspired-metaheuristic-algorithms-virtual-workshop/). March 10, 2021. The workshop was hosted by the Statistical and Applied Mathematical Sciences Institute ([SAMSI](https://www.samsi.info/)).
-
-[A brief self-introduction including my past and current research projects.](https://www.youtube.com/watch?v=yxGKEH0cBY4&ab_channel=UCLAStatistics)
-
-
-## Teaching
-
-INEG 514V. Introduction to Industrial Statistics (Fall 2022).
-
-INEG 4163. Modern Statistical Techniques for Industrial Applications (Spring 2023).
-
-
 
