@@ -12,7 +12,7 @@ I was born and raised in Monterrey, Nuevo Leon, Mexico.
 
 My current email address is <alanv@uark.edu>
 
-See [Publications](https://github.com/alanrvazquez/alanrvazquez.github.io/blob/main/publications.md)
+See [Publications](publications.md)
 
 ## [Publications](https://github.com/alanrvazquez/alanrvazquez.github.io/blob/main/publications.md)
 
