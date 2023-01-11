@@ -14,6 +14,8 @@ My current email address is <alanv@uark.edu>
 
 See [Publications](https://github.com/alanrvazquez/alanrvazquez.github.io/blob/main/publications.md)
 
+## [Publications](https://github.com/alanrvazquez/alanrvazquez.github.io/blob/main/publications.md)
+
 ## Published Papers
 
 1. **Vazquez, A. R.** and Xu, H. (2022). An integer programming algorithm for constructing maximin distance designs from good lattice point sets. **Statistica Sinica**. Published Online.
