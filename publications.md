@@ -1,6 +1,6 @@
 ## Published Papers
 
-1. **Vazquez, A. R.** and Xu, H. (2022). An integer programming algorithm for constructing maximin distance designs from good lattice point sets. **Statistica Sinica**. Published Online. ([Programs](https://github.com/alanrvazquez/IP-Algorithm-for-Maximin-LHD)
+1. **Vazquez, A. R.** and Xu, H. (2022). An integer programming algorithm for constructing maximin distance designs from good lattice point sets. **Statistica Sinica**. Published Online. ([Manuscript](https://github.com/alanrvazquez/alanrvazquez.github.io/blob/main/manuscripts/Manuscript_IP_approach_for_maximin_distance_designs.pdf) ([Supplement](https://github.com/alanrvazquez/alanrvazquez.github.io/blob/main/manuscripts/Supplementary%20sections%20Sec.pdf) ([Programs](https://github.com/alanrvazquez/IP-Algorithm-for-Maximin-LHD))
 
 2. **Vazquez, A. R.**, Wong, W.-K., and Goos, P. (2022). Constructing two-level Q<sub>B</sub>-optimal designs for screening experiments using mixed integer programming and heuristic algorithms. **Statistics and Computing**. Published Online. ([Manuscript](https://github.com/alanrvazquez/alanrvazquez.github.io/blob/main/manuscripts/Two-Level%20QB-Optimal%20Designs.pdf)) ([Programs](https://github.com/alanrvazquez/Algorithms-for-constructing-QB-optimal-designs))
 
