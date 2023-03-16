@@ -1,26 +1,6 @@
-## Welcome!
+[![Netlify Status](https://api.netlify.com/api/v1/badges/816336ea-4f3a-4d58-ae0e-5a3245a61727/deploy-status)](https://app.netlify.com/sites/mystifying-swanson-a9e988/deploys)
+# MyWebsite
+This repository holds the source files for my personal website https://www.nikosirmpilatze.com.
 
-I am an Assistant Professor at the [Department of Industrial Engineering at the University of Arkansas](https://industrial-engineering.uark.edu/). Previously, I was an Assistant Adjunct Professor at the [Department of Statistics at the University of California, Los Angeles](http://statistics.ucla.edu/), and a Junior Postdoctoral Fellow of the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)), Belgium. From July 2018 to September 2019, I was a Postdoctoral Researcher at the Department of Biosystems at [KU Leuven](https://www.biw.kuleuven.be/biosyst/english), Belgium. In May 2018, I obtained a Ph.D. in Applied Economics at the [University of Antwerp](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/), Belgium. The supervisors of my Ph.D. thesis were Prof. [Peter Goos](http://www.experimental-design.eu/who/) and Dr. [Eric Schoen](http://www.experimental-design.eu/who/). 
-
-My research interests include:
-- Optimum Experimental Design
-- Computer Experiments
-- Model Selection
-- Discrete Optimization
-
-I was born and raised in Monterrey, Nuevo Leon, Mexico.
-
-### Contact
-
-800 W Dickson St, Bell Engineering Center, Fayeteville, AR 72701
-
-**Office**: BELL 4177    **Email**: <alanv@uark.edu>	
-
-
-## [Publications](publications.md)
-
-## [Presentations](presentations.md)
-
-## [Teaching](teaching.md)
-
-## [Funding and Awards](funding.md)
+The website is written in [Rmarkdown](https://rmarkdown.rstudio.com/) using the [blogdown package](https://bookdown.org/yihui/blogdown/).
+It is built with [hugo-academic](https://github.com/gcushen/hugo-academic) and dynamically deployed from this repository with [netlify](https://www.netlify.com/).
