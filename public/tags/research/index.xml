@@ -7,7 +7,7 @@
     <description>research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/icon-512.png</url>
+      <url>/img/icon-512.png</url>
       <title>research</title>
       <link>/tags/research/</link>
     </image>
@@ -18,7 +18,7 @@
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/project/bs/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;During deep anesthesia, the electroencephalographic (EEG) signal of the brain alternates between bursts of activity and periods of relative silence (suppressions). The origin of burst-suppression and its distribution across the brain remain matters of debate. In this work, we used functional magnetic resonance imaging (fMRI) to map the brain areas involved in anesthesia-induced burst-suppression across four mammalian species: humans, long-tailed macaques, common marmosets, and rats. At first, we determined the fMRI signatures of burst-suppression in human EEG-fMRI data. Applying this method to animal fMRI datasets, we found distinct burst-suppression signatures in all species. The burst-suppression maps revealed a marked inter-species difference: in rats the entire neocortex engaged in burst-suppression, while in primates most sensory areas were excluded—predominantly the primary visual cortex. We anticipate that the identified species-specific fMRI signatures and whole-brain maps will guide future targeted studies investigating the cellular and molecular mechanisms of burst-suppression in unconscious states.&lt;/p&gt;
+&lt;p&gt;During deep anesthesia, the electroencephalographic (EEG) signal of the brain alternates between bursts of activity and periods of relative silence (suppressions). The origin of burst-suppression and its distribution across the brain remain matters of debate. In this work, we used functional magnetic resonance imaging (fMRI) to map the brain areas involved in anesthesia-induced burst-suppression across four mammalian species: humans, long-tailed macaques, common marmosets, and rats. At first, we determined the fMRI signatures of burst-suppression in human EEG-fMRI data. Applying this method to animal fMRI datasets, we found distinct burst-suppression signatures in all species. The burst-suppression maps revealed a marked inter-species difference: in rats, the entire neocortex engaged in burst-suppression, while in primates most sensory areas were excluded—predominantly the primary visual cortex. We anticipate that the identified species-specific fMRI signatures and whole-brain maps will guide future targeted studies investigating the cellular and molecular mechanisms of burst-suppression in unconscious states.&lt;/p&gt;
 </description>
     </item>
     
