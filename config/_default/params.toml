@@ -18,7 +18,7 @@ description = ""
 sharing_image = "icon-512.png"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "niksirbi"
+twitter = "alanrvazquez"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -58,7 +58,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "nsirmpilatze@dpz.eu"
+email = "alanv@uark.edu"
 phone = ""
 address = ""
 
