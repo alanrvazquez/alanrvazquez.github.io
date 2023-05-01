@@ -10,13 +10,6 @@ My research interests include:
 
 I was born and raised in Monterrey, Nuevo Leon, Mexico.
 
-### Contact
-
-800 W Dickson St, Bell Engineering Center, Fayeteville, AR 72701
-
-**Office**: BELL 4177    **Email**: <alanv@uark.edu>	
-
-
 ## Publications
 
 1. **Vazquez, A. R.** and Xu, H. (2022). An integer programming algorithm for constructing maximin distance designs from good lattice point sets. **Statistica Sinica**. Published Online. ([Manuscript](https://github.com/alanrvazquez/alanrvazquez.github.io/blob/main/manuscripts/Manuscript_IP_approach_for_maximin_distance_designs.pdf)) ([Supplement](https://github.com/alanrvazquez/alanrvazquez.github.io/blob/main/manuscripts/Supplementary%20sections%20Sec.pdf)) ([Programs](https://github.com/alanrvazquez/IP-Algorithm-for-Maximin-LHD))
@@ -53,11 +46,13 @@ I was born and raised in Monterrey, Nuevo Leon, Mexico.
 
 ### Manuscripts Submited for Publication or In Preparation
 
-- **Vazquez, A. R.** and Wong, W.-K. (2023). Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data. Submitted.
+- **Vazquez, A. R.** and Wong, W.-K. (2023). Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data. In preparation.
 
 - **Vazquez, A. R.** and Xuan, X. (2023). A review of undergraduate courses in Design of Experiments offered by American universities. Submitted.
 
 - Okeyo, A. A., Luthra, K., **Vazquez, A. R.**, and Atungulu, G. G. (2023). Drying Techniques for Precooked Hybrid Rice to Ensure Quality of Instantized Rice. Submitted.
+
+- Luthra, K., Odula, A., **Vazquez, A. R.**, and Atungulu, G. G. (2023). Impact of rice drying techniques on inter-kerbel moisture variability and quality. In preparation.
 
 
 ## [Presentations](presentations.md)
@@ -65,3 +60,9 @@ I was born and raised in Monterrey, Nuevo Leon, Mexico.
 ## [Teaching](teaching.md)
 
 ## [Funding and Awards](funding.md)
+
+## Contact
+
+800 W Dickson St, Bell Engineering Center, Fayeteville, AR 72701
+
+**Office**: BELL 4177    **Email**: <alanv@uark.edu>	
