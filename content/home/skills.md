@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Skills"
+title = "Research Interests"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "code"
+  #icon = "code"
   icon_pack = "fa"
-  name = "Programming"
-  description = "**Python**, Bash, R, git, LaTeX"
+  name = "Design of Experiments"
+  description = "Optimal design of Experiments, Computer Experiments, Clinical Trials"
   
 [[feature]]
-  icon = "brain"
+  #icon = "brain"
   icon_pack = "fa"
-  name = "Neuroimaging software"
-  description = "**FSL**, **ANTS**, AFNI, BrainVoyager, Freesurfer, Connectome Workbench"  
+  name = "Optimization"
+  description = "Mathematical programming, Metaheuristics"  
   
 [[feature]]
-  icon = "language"
+  #icon = "language"
   icon_pack = "fa"
-  name = "Languages"
-  description = "**Greek**, **Georgian**, **English**, German, Russian"
+  name = "Data Science"
+  description = "Data Analysis, Model Selection, Teaching"
 
 +++

@@ -12,6 +12,8 @@ googleAnalytics = ""
 ## Advanced options below ##
 ############################
 
+title = "Alan R. Vazquez"
+
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
 

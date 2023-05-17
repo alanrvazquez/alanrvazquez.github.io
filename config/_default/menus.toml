@@ -20,10 +20,14 @@
 #  weight = 30
   
 [[main]]
-  name = "Talks"
+  name = "Presentations"
   url = "#talks"
   weight = 30
   
+[[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 30  
 
 [[main]]
   name = "Memberships"
