@@ -3,5 +3,5 @@ header:
   caption: ""
   image: ""
 title: Recent Talks
-view: 3
+view: 4
 ---
