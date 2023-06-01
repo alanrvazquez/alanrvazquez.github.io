@@ -52,7 +52,10 @@ I was born and raised in Monterrey, Nuevo Leon, Mexico.
 
 - Okeyo, A. A., Luthra, K., **Vazquez, A. R.**, and Atungulu, G. G. (2023). Drying Techniques for Precooked Hybrid Rice to Ensure Quality of Instantized Rice. Submitted.
 
-- Luthra, K., Odula, A., **Vazquez, A. R.**, and Atungulu, G. G. (2023). Impact of rice drying techniques on inter-kerbel moisture variability and quality. In preparation.
+- Okeyo, A. A., Luthra, K., **Vazquez, A. R.**, and Atungulu, G. G. (2023). Impact of Combined Microwave and Hot Air-Drying on Quality Characteristic of Processed Instant Rice. In preparation.
+
+- Luthra, K., Odula, A., **Vazquez, A. R.**, and Atungulu, G. G. (2023). Impact of rice drying techniques on inter-kernel moisture variability and quality. In preparation.
+
 
 
 ## [Presentations](presentations.md)
