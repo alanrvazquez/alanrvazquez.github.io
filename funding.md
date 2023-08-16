@@ -5,6 +5,7 @@
 
 ## Awards
 
+- AI SUSTAIN Seed grant (10/2022).
 - Flemish Fund for Scientific Research (FWO) Grant for a Short Research Stay Abroad (01/2020). 
 - FWO Junior Postdoctoral Fellowship (06/2019). 
 - Travel Grant for the International Conference on Design of Experiments 2019 (05/2019).
