@@ -69,3 +69,7 @@ I was born and raised in Monterrey, Nuevo Leon, Mexico.
 800 W Dickson St, Bell Engineering Center, Fayeteville, AR 72701
 
 **Office**: BELL 4177    **Email**: <alanv@uark.edu>	
+
+## International Relevance
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=yq5J6s5s68zqZqkXMuI7GGb4VKKBITfc47s7S-eLMSw&cl=ffffff&w=a"></script>	
