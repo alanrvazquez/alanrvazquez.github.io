@@ -72,4 +72,4 @@ I was born and raised in Monterrey, Nuevo Leon, Mexico.
 
 ## International Relevance
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=yq5J6s5s68zqZqkXMuI7GGb4VKKBITfc47s7S-eLMSw'></script>	
+<a href="https://m.maploco.com/details/a4c63770"><img style="border:0px;" src="https://www.maploco.com/vmap/s/10226988.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>  	
