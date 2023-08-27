@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>published | Alan R. Vazquez</title>
+    <link>/tags/published/</link>
+      <atom:link href="/tags/published/index.xml" rel="self" type="application/rss+xml" />
+    <description>published</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>published</title>
+      <link>/tags/published/</link>
+    </image>
+    
+    <item>
+      <title>A mixed integer optimization approach for model selection in screening experiments</title>
+      <link>/publication/mio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/mio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A nonlinear multidimensional knapsack problem in the optimal design of mixture experiments</title>
+      <link>/publication/knapsack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/knapsack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructing Two-Level Designs by Concatenation of Strength-3 Orthogonal Arrays</title>
+      <link>/publication/concatenationoas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/concatenationoas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of Two-Level Nonregular Designs of Strength Three With Large Run Sizes</title>
+      <link>/publication/concatenationregular/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/concatenationregular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projections of Definitive Screening Designs by Dropping Columns: Selection and Evaluation</title>
+      <link>/publication/projectionsdsd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/projectionsdsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic enumeration of two-level even-odd designs of strength 3</title>
+      <link>/publication/enumeration-evenodd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/enumeration-evenodd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-level orthogonal screening designs with 80, 96, and 112 runs, and up to 29 factors</title>
+      <link>/publication/twoleveloa8096112runs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/twoleveloa8096112runs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan R. Vazquez, Peter Goos, Eric D. Schoen | Alan R. Vazquez</title>
+    <link>/authors/alan-r.-vazquez-peter-goos-eric-d.-schoen/</link>
+      <atom:link href="/authors/alan-r.-vazquez-peter-goos-eric-d.-schoen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alan R. Vazquez, Peter Goos, Eric D. Schoen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Alan R. Vazquez, Peter Goos, Eric D. Schoen</title>
+      <link>/authors/alan-r.-vazquez-peter-goos-eric-d.-schoen/</link>
+    </image>
+    
+    <item>
+      <title>Constructing Two-Level Designs by Concatenation of Strength-3 Orthogonal Arrays</title>
+      <link>/publication/concatenationoas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/concatenationoas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projections of Definitive Screening Designs by Dropping Columns: Selection and Evaluation</title>
+      <link>/publication/projectionsdsd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/projectionsdsd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

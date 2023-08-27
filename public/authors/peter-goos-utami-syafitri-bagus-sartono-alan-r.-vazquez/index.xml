@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Goos, Utami Syafitri, Bagus Sartono, Alan R. Vazquez | Alan R. Vazquez</title>
+    <link>/authors/peter-goos-utami-syafitri-bagus-sartono-alan-r.-vazquez/</link>
+      <atom:link href="/authors/peter-goos-utami-syafitri-bagus-sartono-alan-r.-vazquez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Goos, Utami Syafitri, Bagus Sartono, Alan R. Vazquez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Peter Goos, Utami Syafitri, Bagus Sartono, Alan R. Vazquez</title>
+      <link>/authors/peter-goos-utami-syafitri-bagus-sartono-alan-r.-vazquez/</link>
+    </image>
+    
+    <item>
+      <title>A nonlinear multidimensional knapsack problem in the optimal design of mixture experiments</title>
+      <link>/publication/knapsack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/knapsack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
