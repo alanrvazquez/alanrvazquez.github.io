@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | </title>
+    <title>3 | Alan R. Vazquez</title>
     <link>/publication_types/3/</link>
       <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>3</title>
       <link>/publication_types/3/</link>
     </image>
-    
-    <item>
-      <title>StandardRat: A multi-center consensus protocol to enhance functional connectivity specificity in the rat brain</title>
-      <link>/publication/multirat/</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/multirat/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Temporal stability of fMRI in medetomidine-anesthetized rats</title>

@@ -28,6 +28,9 @@ organizations:
   url: "https://www.uark.edu/"
 role: Assistant Professor
 social:
+- icon: envelope
+  icon_pack: fa
+  link: "mailto:alanv@uark.edu"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=bMZTeBIAAAAJ&hl=en

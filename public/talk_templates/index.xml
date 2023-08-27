@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talk_templates | </title>
+    <title>Recent &amp; Upcoming Talks | Alan R. Vazquez</title>
     <link>/talk_templates/</link>
       <atom:link href="/talk_templates/index.xml" rel="self" type="application/rss+xml" />
-    <description>Talk_templates</description>
+    <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
-      <title>Talk_templates</title>
+      <title>Recent &amp; Upcoming Talks</title>
       <link>/talk_templates/</link>
     </image>
     
@@ -25,6 +25,19 @@
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fMRI signatures of deep anesthesia in primates and rodents</title>
+      <link>/talk_templates/douglas/</link>
+      <pubDate>Wed, 24 Nov 2021 11:00:00 +0000</pubDate>
+      <guid>/talk_templates/douglas/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MoJ3HNUT4Lc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
