@@ -1,0 +1,5 @@
+Parameters of website are in params.toml
+
+To modify the main left section with picture and social media is _index.md
+
+page_sharer.toml to activate buttons to share content and publications.
