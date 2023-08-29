@@ -2,7 +2,7 @@
 abstract:
 all_day: false
 authors: [admin]
-date: 
+date: 2023-05-23
 date_end: ""
 event: Spring Research Conference 2023
 event_url: https://sites.google.com/view/src2023

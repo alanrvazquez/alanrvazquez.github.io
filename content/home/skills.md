@@ -7,6 +7,7 @@ weight = 20  # Order that this section will appear.
 
 title = "Research"
 subtitle = ""
+font_size = "30"
 
 # Showcase personal skills or business features.
 # 
