@@ -2,10 +2,10 @@
 abstract:
 all_day: true
 authors: [admin]
-date: 2023-05-24
-date_end: 2023-05-26
-event: Spring Research Conference 2023
-event_url: https://sites.google.com/view/src2023
+date: 2018-12-13
+date_end: 2018-12-15
+event: Conference on Experimental Design and Analysis (CEDA) 2018
+event_url: https://www3.stat.sinica.edu.tw/ceda2018/
 featured: false
 image:
   caption: ''
@@ -15,7 +15,7 @@ links:
   icon_pack: fab
   name: 
   url: 
-location: Banff, Canada
+location: Hsinchu, Taiwan
 math: true
 projects:
 - BS
@@ -23,7 +23,7 @@ publishDate:
 slides: 
 summary: 
 tags: []
-title: "Constructing two-level $Q_B$-optimal screening designs using exact and heuristic algorithms"
+title: "A mixed integer optimization approach for model selection in screening experiments"
 url_code: ""
 url_pdf: ""
 url_slides: ""

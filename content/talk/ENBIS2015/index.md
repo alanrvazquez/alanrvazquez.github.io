@@ -2,10 +2,10 @@
 abstract:
 all_day: true
 authors: [admin]
-date: 2022-10-06
-date_end: 2022-10-11
-event: 2022 Joint Statistical Meetings
-event_url: https://ww2.amstat.org/meetings/jsm/2022/
+date: 2015-11-06
+date_end: 2015-11-10
+event: Meeting of the European Network for Business and Industrial Statistics 2015
+event_url: 
 featured: false
 image:
   caption: ''
@@ -15,15 +15,15 @@ links:
   icon_pack: fab
   name: 
   url: 
-location: Washington, DC, USA
+location: Prague, Czech Republic
 math: true
 projects:
 - BS
 publishDate: 
-slides:
+slides: 
 summary: 
 tags: []
-title: "Innovations on Teaching Design of Experiments: The Computer-Generated Approach"
+title: "Fractional Factorial Designs by Combining Two-Level Designs"
 url_code: ""
 url_pdf: ""
 url_slides: ""

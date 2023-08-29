@@ -15,7 +15,7 @@ links:
   icon_pack: fab
   name: 
   url: 
-location: Memphis, USA
+location: Memphis, TN, USA
 math: true
 projects:
 - BS

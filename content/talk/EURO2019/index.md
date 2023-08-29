@@ -2,10 +2,10 @@
 abstract:
 all_day: true
 authors: [admin]
-date: 2022-10-06
-date_end: 2022-10-11
-event: 2022 Joint Statistical Meetings
-event_url: https://ww2.amstat.org/meetings/jsm/2022/
+date: 2019-06-23
+date_end: 2019-06-26
+event: 30th European Conference on Operational Research
+event_url: https://euro2019.euro-online.org/
 featured: false
 image:
   caption: ''
@@ -15,15 +15,15 @@ links:
   icon_pack: fab
   name: 
   url: 
-location: Washington, DC, USA
+location: Dublin, Ireland
 math: true
 projects:
 - BS
 publishDate: 
-slides:
+slides: 
 summary: 
 tags: []
-title: "Innovations on Teaching Design of Experiments: The Computer-Generated Approach"
+title: "A mixed integer optimization approach for model selection in screening experiments"
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -2,10 +2,10 @@
 abstract:
 all_day: true
 authors: [admin]
-date: 2023-05-24
-date_end: 2023-05-26
-event: Spring Research Conference 2023
-event_url: https://sites.google.com/view/src2023
+date: 2023-07-09
+date_end: 2023-07-14
+event: Model-Oriented Data Analysis and Optimum Design (mODa-13)
+event_url: https://statsdavew.github.io/mODa13/
 featured: false
 image:
   caption: ''
@@ -15,7 +15,7 @@ links:
   icon_pack: fab
   name: 
   url: 
-location: Banff, Canada
+location: Southampton, England
 math: true
 projects:
 - BS
@@ -23,7 +23,7 @@ publishDate:
 slides: 
 summary: 
 tags: []
-title: "Constructing two-level $Q_B$-optimal screening designs using exact and heuristic algorithms"
+title: "Constructing large OMARS designs by concatenating definitive screening designs"
 url_code: ""
 url_pdf: ""
 url_slides: ""

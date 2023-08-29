@@ -1,9 +1,9 @@
 ---
 abstract:
-all_day: false
+all_day: true
 authors: [admin]
-date: 
-date_end: ""
+date: 2021-07-26
+date_end: 2021-07-29
 event: Quality and Productivity Research Conference 2021
 event_url: https://www.niss.org/events/quality-and-productivity-research-conference-2021
 featured: false
@@ -15,7 +15,7 @@ links:
   icon_pack: fab
   name: 
   url: 
-location: Florida, USA
+location: Tallahassee, FL, USA
 math: true
 projects:
 - BS

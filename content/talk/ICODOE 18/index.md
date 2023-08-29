@@ -2,10 +2,10 @@
 abstract:
 all_day: true
 authors: [admin]
-date: 2022-10-06
-date_end: 2022-10-11
-event: 2022 Joint Statistical Meetings
-event_url: https://ww2.amstat.org/meetings/jsm/2022/
+date: 2019-05-18
+date_end: 2019-05-21
+event: 5th International Conference on Design of Experiments
+event_url: 
 featured: false
 image:
   caption: ''
@@ -15,7 +15,7 @@ links:
   icon_pack: fab
   name: 
   url: 
-location: Washington, DC, USA
+location: Memphis, TN, USA
 math: true
 projects:
 - BS
@@ -23,7 +23,7 @@ publishDate:
 slides:
 summary: 
 tags: []
-title: "Innovations on Teaching Design of Experiments: The Computer-Generated Approach"
+title: "Construction of large two-level nonregular designs of strength three"
 url_code: ""
 url_pdf: ""
 url_slides: ""

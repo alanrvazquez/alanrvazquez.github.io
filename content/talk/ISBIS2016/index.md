@@ -2,10 +2,10 @@
 abstract:
 all_day: true
 authors: [admin]
-date: 2022-10-06
-date_end: 2022-10-11
-event: 2022 Joint Statistical Meetings
-event_url: https://ww2.amstat.org/meetings/jsm/2022/
+date: 2016-06-08
+date_end: 2016-06-10
+event: International Symposium on Business and Industrial Statistics 2016
+event_url: https://www2.stat.duke.edu/~banks/barcelona/
 featured: false
 image:
   caption: ''
@@ -15,7 +15,7 @@ links:
   icon_pack: fab
   name: 
   url: 
-location: Washington, DC, USA
+location: Barcelona, Spain
 math: true
 projects:
 - BS
@@ -23,7 +23,7 @@ publishDate:
 slides:
 summary: 
 tags: []
-title: "Innovations on Teaching Design of Experiments: The Computer-Generated Approach"
+title: "Extending Definitive Screening Designs by Concatenation"
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -2,9 +2,9 @@
 abstract:
 all_day: false
 authors: [admin]
-date: 
-date_end: ""
-event: Metaheuristic Optimization, Machine Learning and AI
+date: 2021-03-08
+date_end: 2021-03-12
+event: Metaheuristic Optimization, Machine Learning and AI - Virtual Workshop (SAMSI)
 event_url: 
 featured: false
 image:

@@ -1,9 +1,9 @@
 ---
 abstract:
-all_day: false
+all_day: true
 authors: [admin]
-date: 
-date_end: ""
+date: 2022-06-13
+date_end: 2022-06-16
 event: Quality and Productivity Research Conference 2022
 event_url: http://asa-qprc.org/2022/qprc2022.com/
 featured: false
@@ -15,7 +15,7 @@ links:
   icon_pack: fab
   name: 
   url: 
-location: San Francisco, USA
+location: San Francisco, CA, USA
 math: true
 projects:
 - BS
