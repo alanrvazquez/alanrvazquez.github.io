@@ -5,7 +5,7 @@
     <link>/authors/alan-r.-vazquez-eric-d.-schoen-peter-goos/</link>
       <atom:link href="/authors/alan-r.-vazquez-eric-d.-schoen-peter-goos/index.xml" rel="self" type="application/rss+xml" />
     <description>Alan R. Vazquez, Eric D. Schoen, Peter Goos</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Alan R. Vazquez, Eric D. Schoen, Peter Goos</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>A mixed integer optimization approach for model selection in screening experiments</title>
-      <link>/publication/mio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/mio/</guid>
+      <title>Two-level orthogonal screening designs with 80, 96, and 112 runs, and up to 29 factors</title>
+      <link>/publication/twoleveloa8096112runs/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/twoleveloa8096112runs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Two-level orthogonal screening designs with 80, 96, and 112 runs, and up to 29 factors</title>
-      <link>/publication/twoleveloa8096112runs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/twoleveloa8096112runs/</guid>
+      <title>A mixed integer optimization approach for model selection in screening experiments</title>
+      <link>/publication/mio/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mio/</guid>
       <description></description>
     </item>
     

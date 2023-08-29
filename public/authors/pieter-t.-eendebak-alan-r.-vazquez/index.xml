@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pieter T. Eendebak, Alan R. Vazquez | Alan R. Vazquez</title>
+    <link>/authors/pieter-t.-eendebak-alan-r.-vazquez/</link>
+      <atom:link href="/authors/pieter-t.-eendebak-alan-r.-vazquez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pieter T. Eendebak, Alan R. Vazquez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Pieter T. Eendebak, Alan R. Vazquez</title>
+      <link>/authors/pieter-t.-eendebak-alan-r.-vazquez/</link>
+    </image>
+    
+    <item>
+      <title>OApackage: A Python package for generation and analysis of orthogonal arrays, optimal designs and conference designs</title>
+      <link>/publication/oapackage/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/oapackage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

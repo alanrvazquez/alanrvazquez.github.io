@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Publications</title>
@@ -13,9 +13,49 @@
     </image>
     
     <item>
+      <title>Systematic enumeration of two-level even-odd designs of strength 3</title>
+      <link>/publication/enumeration-evenodd/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/enumeration-evenodd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructing two-level $Q_B$-optimal screening designs using mixed-integer programming and heuristic algorithms</title>
+      <link>/publication/two-levelqb/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/two-levelqb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic enumeration of definitive screening designs</title>
+      <link>/publication/enumerationdsd/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/enumerationdsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superinfection exclusion factors drive a history-dependent switch from vertical to horizontal phage transmission</title>
+      <link>/publication/superinfection/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/superinfection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-level orthogonal screening designs with 80, 96, and 112 runs, and up to 29 factors</title>
+      <link>/publication/twoleveloa8096112runs/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/twoleveloa8096112runs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A mixed integer optimization approach for model selection in screening experiments</title>
       <link>/publication/mio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/publication/mio/</guid>
       <description></description>
     </item>
@@ -23,48 +63,64 @@
     <item>
       <title>A nonlinear multidimensional knapsack problem in the optimal design of mixture experiments</title>
       <link>/publication/knapsack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/knapsack/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Constructing Two-Level Designs by Concatenation of Strength-3 Orthogonal Arrays</title>
-      <link>/publication/concatenationoas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/concatenationoas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Construction of Two-Level Nonregular Designs of Strength Three With Large Run Sizes</title>
-      <link>/publication/concatenationregular/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/concatenationregular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projections of Definitive Screening Designs by Dropping Columns: Selection and Evaluation</title>
       <link>/publication/projectionsdsd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       <guid>/publication/projectionsdsd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Systematic enumeration of two-level even-odd designs of strength 3</title>
-      <link>/publication/enumeration-evenodd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/enumeration-evenodd/</guid>
+      <title>A simulation-based heuristic that promotes business profit while increasing the perceived quality of service industries</title>
+      <link>/publication/bank/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bank/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Two-level orthogonal screening designs with 80, 96, and 112 runs, and up to 29 factors</title>
-      <link>/publication/twoleveloa8096112runs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/twoleveloa8096112runs/</guid>
+      <title>OApackage: A Python package for generation and analysis of orthogonal arrays, optimal designs and conference designs</title>
+      <link>/publication/oapackage/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/oapackage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of Two-Level Nonregular Designs of Strength Three With Large Run Sizes</title>
+      <link>/publication/concatenationregular/</link>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/concatenationregular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruggedness testing of an analytical method for pesticide residues in potato</title>
+      <link>/publication/potato/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/potato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructing Two-Level Designs by Concatenation of Strength-3 Orthogonal Arrays</title>
+      <link>/publication/concatenationoas/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/concatenationoas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LADES: A Software for Constructing and Analyzing Longitudinal Designs in Biomedical Research</title>
+      <link>/publication/lades/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lades/</guid>
       <description></description>
     </item>
     

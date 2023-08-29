@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: medical doctor turned neuroscientist and image analyst.
+bio: Scientist working on the development of cost-effective experimental plans using modern optimization techniques
 education:
   courses:
   - course: PhD in Applied Economics

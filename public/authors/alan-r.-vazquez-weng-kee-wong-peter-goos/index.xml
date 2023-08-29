@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan R. Vazquez, Weng Kee Wong, Peter Goos | Alan R. Vazquez</title>
+    <link>/authors/alan-r.-vazquez-weng-kee-wong-peter-goos/</link>
+      <atom:link href="/authors/alan-r.-vazquez-weng-kee-wong-peter-goos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alan R. Vazquez, Weng Kee Wong, Peter Goos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Alan R. Vazquez, Weng Kee Wong, Peter Goos</title>
+      <link>/authors/alan-r.-vazquez-weng-kee-wong-peter-goos/</link>
+    </image>
+    
+    <item>
+      <title>Constructing two-level $Q_B$-optimal screening designs using mixed-integer programming and heuristic algorithms</title>
+      <link>/publication/two-levelqb/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/two-levelqb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

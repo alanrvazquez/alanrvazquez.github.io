@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric D. Schoen, Pieter T. Eendebak, Alan R. Vazquez, Peter Goos | Alan R. Vazquez</title>
+    <link>/authors/eric-d.-schoen-pieter-t.-eendebak-alan-r.-vazquez-peter-goos/</link>
+      <atom:link href="/authors/eric-d.-schoen-pieter-t.-eendebak-alan-r.-vazquez-peter-goos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric D. Schoen, Pieter T. Eendebak, Alan R. Vazquez, Peter Goos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Eric D. Schoen, Pieter T. Eendebak, Alan R. Vazquez, Peter Goos</title>
+      <link>/authors/eric-d.-schoen-pieter-t.-eendebak-alan-r.-vazquez-peter-goos/</link>
+    </image>
+    
+    <item>
+      <title>Systematic enumeration of definitive screening designs</title>
+      <link>/publication/enumerationdsd/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/enumerationdsd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

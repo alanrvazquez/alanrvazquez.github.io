@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Nov 2021 11:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Authors</title>
@@ -15,11 +15,59 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 24 Nov 2021 11:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am an Assistant Professor at the &lt;a href=&#34;https://industrial-engineering.uark.edu/&#34;&gt;Department of Industrial Engineering at the University of Arkansas&lt;/a&gt;. Previously, I was an Assistant Adjunct Professor at the &lt;a href=&#34;http://statistics.ucla.edu/&#34;&gt;Department of Statistics at the University of California, Los Angeles&lt;/a&gt;, and a Junior Postdoctoral Fellow of the Research Foundation Flanders (&lt;a href=&#34;https://www.fwo.be/en/&#34;&gt;FWO&lt;/a&gt;), Belgium. From July 2018 to September 2019, I was a Postdoctoral Researcher at the Department of Biosystems at &lt;a href=&#34;https://www.biw.kuleuven.be/biosyst/english&#34;&gt;KU Leuven&lt;/a&gt;, Belgium. In May 2018, I obtained a Ph.D. in Applied Economics at the &lt;a href=&#34;https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/&#34;&gt;University of Antwerp&lt;/a&gt;, Belgium. The supervisors of my Ph.D. thesis were Prof. &lt;a href=&#34;http://www.experimental-design.eu/who/&#34;&gt;Peter Goos&lt;/a&gt; and Dr. &lt;a href=&#34;http://www.experimental-design.eu/who/&#34;&gt;Eric Schoen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I was born and raised in Monterrey, Nuevo Leon, Mexico.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Pieter T. Eendebak, Eric D. Schoen, Alan R. Vazquez, Peter Goos</title>
+      <link>/authors/pieter-t.-eendebak-eric-d.-schoen-alan-r.-vazquez-peter-goos/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/pieter-t.-eendebak-eric-d.-schoen-alan-r.-vazquez-peter-goos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alan R. Vazquez, Weng Kee Wong, Peter Goos</title>
+      <link>/authors/alan-r.-vazquez-weng-kee-wong-peter-goos/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/alan-r.-vazquez-weng-kee-wong-peter-goos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric D. Schoen, Pieter T. Eendebak, Alan R. Vazquez, Peter Goos</title>
+      <link>/authors/eric-d.-schoen-pieter-t.-eendebak-alan-r.-vazquez-peter-goos/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/eric-d.-schoen-pieter-t.-eendebak-alan-r.-vazquez-peter-goos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ines Staes, Leonard E. Bäcker, Kenneth Simoens, Kjerstin De Winter, Gasper Marolt, William Cenens, Sanne Wolput, Alan R. Vazquez, Peter Goos, Rob Lavigne, Kristel Bernaerts, Abram Aertsen</title>
+      <link>/authors/ines-staes-leonard-e.-backer-kenneth-simoens-kjerstin-de-winter-gasper-marolt-william-cenens-sanne-wolput-alan-r.-vazquez-peter-goos-rob-lavigne-kristel-bernaerts-abram-aertsen/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/ines-staes-leonard-e.-backer-kenneth-simoens-kjerstin-de-winter-gasper-marolt-william-cenens-sanne-wolput-alan-r.-vazquez-peter-goos-rob-lavigne-kristel-bernaerts-abram-aertsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alan R. Vazquez, Eric D. Schoen, Peter Goos</title>
+      <link>/authors/alan-r.-vazquez-eric-d.-schoen-peter-goos/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/alan-r.-vazquez-eric-d.-schoen-peter-goos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Goos, Utami Syafitri, Bagus Sartono, Alan R. Vazquez</title>
+      <link>/authors/peter-goos-utami-syafitri-bagus-sartono-alan-r.-vazquez/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/peter-goos-utami-syafitri-bagus-sartono-alan-r.-vazquez/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -39,50 +87,58 @@
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
+      <title>Alan R. Vazquez, Peter Goos, Eric D. Schoen</title>
+      <link>/authors/alan-r.-vazquez-peter-goos-eric-d.-schoen/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/alan-r.-vazquez-peter-goos-eric-d.-schoen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Alan R. Vazquez, Eric D. Schoen, Peter Goos</title>
-      <link>/authors/alan-r.-vazquez-eric-d.-schoen-peter-goos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/alan-r.-vazquez-eric-d.-schoen-peter-goos/</guid>
+      <title>Federico Trigos, Alan R. Vazquez, Leopoldo Eduardo Cardenas-Barron</title>
+      <link>/authors/federico-trigos-alan-r.-vazquez-leopoldo-eduardo-cardenas-barron/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/federico-trigos-alan-r.-vazquez-leopoldo-eduardo-cardenas-barron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pieter T. Eendebak, Alan R. Vazquez</title>
+      <link>/authors/pieter-t.-eendebak-alan-r.-vazquez/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/pieter-t.-eendebak-alan-r.-vazquez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alan R. Vazquez, Hongquan Xu</title>
       <link>/authors/alan-r.-vazquez-hongquan-xu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/authors/alan-r.-vazquez-hongquan-xu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Alan R. Vazquez, Peter Goos, Eric D. Schoen</title>
-      <link>/authors/alan-r.-vazquez-peter-goos-eric-d.-schoen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/alan-r.-vazquez-peter-goos-eric-d.-schoen/</guid>
+      <title>Britt Maestroni, Alan R. Vazquez, Valeria Avossa, Peter Goos, Veronica Cesio, Horacio Heinzen, Joerg Riener, Andrew Cannavan</title>
+      <link>/authors/britt-maestroni-alan-r.-vazquez-valeria-avossa-peter-goos-veronica-cesio-horacio-heinzen-joerg-riener-andrew-cannavan/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/britt-maestroni-alan-r.-vazquez-valeria-avossa-peter-goos-veronica-cesio-horacio-heinzen-joerg-riener-andrew-cannavan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Peter Goos, Utami Syafitri, Bagus Sartono, Alan R. Vazquez</title>
-      <link>/authors/peter-goos-utami-syafitri-bagus-sartono-alan-r.-vazquez/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/peter-goos-utami-syafitri-bagus-sartono-alan-r.-vazquez/</guid>
+      <title>Alan Vazquez-Alcocer, Daniel Ladislao Garzon-Cortes, Rosa Maria Sanchez-Casas</title>
+      <link>/authors/alan-vazquez-alcocer-daniel-ladislao-garzon-cortes-rosa-maria-sanchez-casas/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/alan-vazquez-alcocer-daniel-ladislao-garzon-cortes-rosa-maria-sanchez-casas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pieter T. Eendebak, Eric D. Schoen, Alan R. Vazquez, Peter Goos</title>
-      <link>/authors/pieter-t.-eendebak-eric-d.-schoen-alan-r.-vazquez-peter-goos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/pieter-t.-eendebak-eric-d.-schoen-alan-r.-vazquez-peter-goos/</guid>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>
     

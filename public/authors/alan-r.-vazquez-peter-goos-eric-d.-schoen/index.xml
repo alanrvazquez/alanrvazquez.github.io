@@ -5,7 +5,7 @@
     <link>/authors/alan-r.-vazquez-peter-goos-eric-d.-schoen/</link>
       <atom:link href="/authors/alan-r.-vazquez-peter-goos-eric-d.-schoen/index.xml" rel="self" type="application/rss+xml" />
     <description>Alan R. Vazquez, Peter Goos, Eric D. Schoen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Alan R. Vazquez, Peter Goos, Eric D. Schoen</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Constructing Two-Level Designs by Concatenation of Strength-3 Orthogonal Arrays</title>
-      <link>/publication/concatenationoas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/concatenationoas/</guid>
+      <title>Projections of Definitive Screening Designs by Dropping Columns: Selection and Evaluation</title>
+      <link>/publication/projectionsdsd/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/projectionsdsd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projections of Definitive Screening Designs by Dropping Columns: Selection and Evaluation</title>
-      <link>/publication/projectionsdsd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/projectionsdsd/</guid>
+      <title>Constructing Two-Level Designs by Concatenation of Strength-3 Orthogonal Arrays</title>
+      <link>/publication/concatenationoas/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/concatenationoas/</guid>
       <description></description>
     </item>
     

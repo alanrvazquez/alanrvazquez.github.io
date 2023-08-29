@@ -5,12 +5,60 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alan R. Vazquez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Nov 2021 11:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Alan R. Vazquez</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Constructing large OMARS designs by concatenating definitive screening designs</title>
+      <link>/talk/moda-2023/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/moda-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructing two-level $Q_B$-optimal screening designs using exact and heuristic algorithms</title>
+      <link>/talk/src-2023/</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/src-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integer programming algorithm for constructing maximin distance designs from good lattice point sets</title>
+      <link>/talk/icodoe-23/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/icodoe-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovations on Teaching Design of Experiments: The Computer-Generated Approach</title>
+      <link>/talk/jsm-2022/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/talk/jsm-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integer programming approach for constructing maximin distance designs from good lattice point sets and the Williams’ transformation</title>
+      <link>/talk/qprc2022/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/talk/qprc2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective algorithms for constructing two-level $Q_B$-optimal designs for screening experiments</title>
+      <link>/talk/ecostat2022/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/talk/ecostat2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>fMRI signatures of deep anesthesia in primates and rodents</title>
@@ -26,10 +74,74 @@
     </item>
     
     <item>
+      <title>Two-level orthogonal screening designs with 80, 96 and 112 runs: Construction and evaluation</title>
+      <link>/talk/qrpc2021/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/qrpc2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructing Optimal Screening Designs for Effective Experimentation using Metaheuristics</title>
+      <link>/talk/samsi-workshop/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/samsi-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mixed integer optimization approach for model selection in screening experiments</title>
+      <link>/talk/enbis2019/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/enbis2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mixed integer optimization approach for model selection in screening experiments</title>
+      <link>/talk/euro2019/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/euro2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Temporal stability of fMRI in medetomidine-anesthetized rats</title>
       <link>/publication_templates/example_preprint/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/publication_templates/example_preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of large two-level nonregular designs of strength three</title>
+      <link>/talk/icodoe-18/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/icodoe-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mixed integer optimization approach for model selection in screening experiments</title>
+      <link>/talk/ceda2018/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/ceda2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending Definitive Screening Designs by Concatenation</title>
+      <link>/talk/isbis2016/</link>
+      <pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/isbis2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractional Factorial Designs by Combining Two-Level Designs</title>
+      <link>/talk/enbis2015/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/enbis2015/</guid>
       <description></description>
     </item>
     
@@ -42,62 +154,6 @@
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>An integer programming algorithm for constructing maximin distance designs from good lattice point sets</title>
-      <link>/talk/icodoe-23/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/icodoe-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An integer programming approach for constructing maximin distance designs from good lattice point sets and the Williams’ transformation</title>
-      <link>/talk/qprc2022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/qprc2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Constructing Optimal Screening Designs for Effective Experimentation using Metaheuristics</title>
-      <link>/talk/samsi-workshop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/samsi-workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Constructing two-level QB-optimal screening designs using mixed integer programming and heuristic algorithms</title>
-      <link>/talk/src-2023/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/src-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effective algorithms for constructing two-level $Q_B$-optimal designs for screening experiments</title>
-      <link>/talk/ecostat2022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/ecostat2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Innovations on Teaching Design of Experiments: The Computer-Generated Approach</title>
-      <link>/talk/jsm-2022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/jsm-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two-level orthogonal screening designs with 80, 96 and 112 runs: Construction and evaluation</title>
-      <link>/talk/qrpc2021/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/qrpc2021/</guid>
-      <description></description>
     </item>
     
   </channel>
