@@ -1,9 +1,9 @@
 ---
 abstract:
-all_day: false
+all_day: true
 authors: [admin]
-date: 2023-05-23
-date_end: ""
+date: 2023-05-24
+date_end: 2023-05-26
 event: Spring Research Conference 2023
 event_url: https://sites.google.com/view/src2023
 featured: false
@@ -20,13 +20,13 @@ math: true
 projects:
 - BS
 publishDate: 
-slides:
+slides: 
 summary: 
 tags: []
-title: "Constructing two-level QB-optimal screening designs using mixed integer programming and heuristic algorithms"
+title: "Constructing two-level $Q_B$-optimal screening designs using mixed integer programming and heuristic algorithms"
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: https://github.com/alanrvazquez/alanrvazquez.github.io/blob/dev/content/talk/ICODOE%2023/slides.pdf
+url_slides: https://github.com/alanrvazquez/alanrvazquez.github.io/blob/dev/content/talk/ICODOE%2023/slides.pdf
 url_video: ""
 ---
 

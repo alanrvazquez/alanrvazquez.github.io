@@ -1,9 +1,9 @@
 ---
 abstract:
-all_day: false
+all_day: true
 authors: [admin]
-date: 
-date_end: ""
+date: 2023-05-09
+date_end: 2023-05-11
 event: 6th International Conference on Design of Experiments
 event_url: https://www.memphis.edu/msci/icodoe22/
 featured: false
@@ -23,7 +23,7 @@ publishDate:
 slides:
 summary: 
 tags: []
-title: An integer programming algorithm for constructing maximin distance designs from good lattice point sets
+title: "An integer programming algorithm for constructing maximin distance designs from good lattice point sets"
 url_code: ""
 url_pdf: ""
 url_slides: ""
