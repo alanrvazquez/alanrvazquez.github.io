@@ -13,8 +13,8 @@ image:
 links:
 - icon: 
   icon_pack: fab
-  name: 
-  url: 
+  name: Slides
+  url: https://drive.google.com/file/d/1XonVT_1TYenVPB3442teONvFHbG0e-E2/view?usp=sharing
 location: 
 math: true
 projects:

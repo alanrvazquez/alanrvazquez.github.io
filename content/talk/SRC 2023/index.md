@@ -13,8 +13,8 @@ image:
 links:
 - icon: 
   icon_pack: fab
-  name: 
-  url: 
+  name: Slides 
+  url: https://drive.google.com/file/d/1JsPe5VycpY4Cd5xBI_M5yg0i0v3LTYLa/view?usp=sharing
 location: Banff, Canada
 math: true
 projects:

@@ -13,8 +13,8 @@ image:
 links:
 - icon: 
   icon_pack: fab
-  name: 
-  url: 
+  name: Slides
+  url: https://drive.google.com/file/d/1K28ygmxNIqKHhh6ire-4PNsfpsv4crEx/view?usp=sharing
 location: San Francisco, CA, USA
 math: true
 projects:

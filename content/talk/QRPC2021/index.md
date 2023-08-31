@@ -13,8 +13,8 @@ image:
 links:
 - icon: 
   icon_pack: fab
-  name: 
-  url: 
+  name: Slides
+  url: https://drive.google.com/file/d/1qXT9csgIgKZW24v69wnaO6t20_h6Ut1f/view?usp=sharing
 location: Tallahassee, FL, USA
 math: true
 projects:

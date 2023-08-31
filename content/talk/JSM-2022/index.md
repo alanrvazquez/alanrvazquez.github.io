@@ -13,8 +13,8 @@ image:
 links:
 - icon: 
   icon_pack: fab
-  name: 
-  url: 
+  name: Slides
+  url: https://drive.google.com/file/d/16e2Td-ZL9yLj1Vv880kFF5DOJ-ofkSPY/view?usp=sharing
 location: Washington, DC, USA
 math: true
 projects:
