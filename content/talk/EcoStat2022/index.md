@@ -13,8 +13,8 @@ image:
 links:
 - icon: 
   icon_pack: fab
-  name: 
-  url: 
+  name: Slides
+  url: https://drive.google.com/file/d/14gf7XMEq1iKDJHHiRj8pq5AAT7ubJLay/view?usp=sharing
 location: Kyoto, Japan
 math: true
 projects:
