@@ -13,8 +13,8 @@ image:
 links:
 - icon: 
   icon_pack: fab
-  name: 
-  url: 
+  name: Slides
+  url: https://drive.google.com/file/d/1I_vQ-ux_UtAsgXWevKL_x3WMMOuvhZKV/view?usp=sharing
 location: Prague, Czech Republic
 math: true
 projects:

@@ -13,8 +13,8 @@ image:
 links:
 - icon: 
   icon_pack: fab
-  name: 
-  url: 
+  name: Slides
+  url: https://drive.google.com/file/d/1d9TAkAKVnWGBHKrUFSgQ3P_Yxrjgc97D/view?usp=sharing
 location: Budapest, Hungary
 math: true
 projects:

@@ -13,8 +13,8 @@ image:
 links:
 - icon: 
   icon_pack: fab
-  name: 
-  url: 
+  name: Slides
+  url: https://drive.google.com/file/d/1OOrOakItWttnyjbG10qmtEZJ1_LiiDrW/view?usp=sharing
 location: Memphis, TN, USA
 math: true
 projects:
