@@ -13,8 +13,8 @@ image:
 links:
 - icon: 
   icon_pack: fab
-  name: 
-  url: 
+  name: Slides
+  url: https://drive.google.com/file/d/1F5EtAgLL5k214KH4o1XV7LgsNeZbYgJq/view?usp=sharing
 location: Hsinchu, Taiwan
 math: true
 projects:

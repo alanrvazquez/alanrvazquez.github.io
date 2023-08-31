@@ -13,8 +13,8 @@ image:
 links:
 - icon: 
   icon_pack: fab
-  name: 
-  url: 
+  name: Slides
+  url: https://drive.google.com/file/d/1Ko60TjzOKZ5cjXvNGX1BJbfoz-Lmqnhr/view?usp=sharing
 location: Dublin, Ireland
 math: true
 projects:

@@ -13,8 +13,8 @@ image:
 links:
 - icon: 
   icon_pack: fab
-  name: 
-  url: 
+  name: Slides
+  url: https://drive.google.com/file/d/1WbcNwFVlmIz8so2d_SpBgLHE44CY2DHi/view?usp=sharing
 location: Barcelona, Spain
 math: true
 projects:
