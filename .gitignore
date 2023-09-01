@@ -3,3 +3,16 @@
 .RData
 .Ruserdata
 .DS_Store
+.DS_Store
+config/.DS_Store
+content/.DS_Store
+content/authors/.DS_Store
+content/authors/admin/.DS_Store
+content/courses/.DS_Store
+content/publication/.DS_Store
+content/publication/EnumerationDSD/.DS_Store
+content/publication/Two-LevelQB/.DS_Store
+content/publication_templates/.DS_Store
+content/slides/.DS_Store
+content/talk/.DS_Store
+content/talk_templates/.DS_Store
