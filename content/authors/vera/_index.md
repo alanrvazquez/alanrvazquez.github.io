@@ -1,19 +1,15 @@
 ---
 authors:
 - visitor
-#bio: Now in UCLA
+#bio: 
 education:
 #  courses:
 #  - course: BSc in Mathematics
-#    institution: Universidad Autonoma de Nuevo Leon
-#    year: Aug 2005 - May 2010
+#    institution: University of California, Los Angeles
+#    year: Aug 2021 - May 2010
 #email: "alanv@uark.edu"
 #interests:
 #- Optimal Design of Experiments
-#- Computer Experiments
-#- Clinical Trials
-#- Model Selection
-#- Discrete Optimization
 name: Vera Bueler-Faudree
 organizations:
 - name: Department of Statistics
