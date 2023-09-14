@@ -3,10 +3,10 @@ authors:
 - visitor
 #bio: 
 education:
-#  courses:
-#  - course: BSc in Mathematics
-#    institution: University of California, Los Angeles
-#    year: Aug 2021 - May 2010
+  courses:
+  - course: BSc in Statistics and Data Science
+    institution: University of California, Los Angeles
+    year: September 2022 - June 2025
 #email: "alanv@uark.edu"
 #interests:
 #- Optimal Design of Experiments
