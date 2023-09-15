@@ -2,21 +2,17 @@
 authors:
 - grad
 #bio: Now in UCLA
-#education:
-#  courses:
-#  - course: BSc in Mathematics
-#    institution: Universidad Autonoma de Nuevo Leon
-#    year: Aug 2005 - May 2010
+education:
+  courses:
+  - course: BSc in Data Science
+    institution: University of Arkansas
+    year: Aug 2021 - May 2025
 #email: "alanv@uark.edu"
 #interests:
-#- Optimal Design of Experiments
-#- Computer Experiments
-#- Clinical Trials
-#- Model Selection
-#- Discrete Optimization
+#- Topic 1
 name: Sophia Forrester
 organizations:
-#- name: Department of Industrial Engineering
+- name: Department of Data Science
 #  url: "https://industrial-engineering.uark.edu/"
 - name: University of Arkansas
   url: "https://www.uark.edu/"
