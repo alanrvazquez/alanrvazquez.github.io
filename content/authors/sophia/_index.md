@@ -21,6 +21,9 @@ social:
 - icon: envelope
   icon_pack: fa
   link: "mailto:adrianaf@uark.edu"
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sophia-forrester/  
 superuser: true
 user_groups:
 - Undergraduate Students
