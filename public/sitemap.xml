@@ -41,7 +41,13 @@
     <loc>/publication_types/2/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/pieter-t.-eendebak-eric-d.-schoen-alan-r.-vazquez-peter-goos/</loc>
+    <loc>/authors/eric-d.-schoen/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/peter-goos/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pieter-t.-eendebak/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
@@ -59,14 +65,11 @@
     <loc>/tags/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/alan-r.-vazquez-weng-kee-wong-peter-goos/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/two-levelqb/</loc>
     <lastmod>2022-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/eric-d.-schoen-pieter-t.-eendebak-alan-r.-vazquez-peter-goos/</loc>
-    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+    <loc>/authors/weng-kee-wong/</loc>
+    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/enumerationdsd/</loc>
     <lastmod>2022-11-10T00:00:00+00:00</lastmod>
@@ -80,10 +83,37 @@
     <loc>/talk/ecostat2022/</loc>
     <lastmod>2022-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/ines-staes-leonard-e.-backer-kenneth-simoens-kjerstin-de-winter-gasper-marolt-william-cenens-sanne-wolput-alan-r.-vazquez-peter-goos-rob-lavigne-kristel-bernaerts-abram-aertsen/</loc>
+    <loc>/authors/abram-aertsen/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/gasper-marolt/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ines-staes/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/kenneth-simoens/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/kjerstin-de-winter/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/kristel-bernaerts/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/leonard-e.-backer/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/rob-lavigne/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/sanne-wolput/</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/superinfection/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/william-cenens/</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk_templates/douglas/</loc>
@@ -91,9 +121,6 @@
   </url><url>
     <loc>/talk/qrpc2021/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/alan-r.-vazquez-eric-d.-schoen-peter-goos/</loc>
-    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/twoleveloa8096112runs/</loc>
     <lastmod>2021-05-11T00:00:00+00:00</lastmod>
@@ -107,7 +134,10 @@
     <loc>/publication/knapsack/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/peter-goos-utami-syafitri-bagus-sartono-alan-r.-vazquez/</loc>
+    <loc>/authors/bagus-sartono/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/utami-syafitri/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/enbis2019/</loc>
@@ -140,9 +170,6 @@
     <loc>/publication_templates/example_preprint/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/alan-r.-vazquez-peter-goos-eric-d.-schoen/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/projectionsdsd/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -155,13 +182,13 @@
     <loc>/publication/bank/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/federico-trigos-alan-r.-vazquez-leopoldo-eduardo-cardenas-barron/</loc>
+    <loc>/authors/federico-trigos/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/leopoldo-eduardo-cardenas-barron/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/oapackage/</loc>
-    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/pieter-t.-eendebak-alan-r.-vazquez/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/slides/</loc>
@@ -173,16 +200,31 @@
     <loc>/talk/ceda2018/</loc>
     <lastmod>2018-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/alan-r.-vazquez-hongquan-xu/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/concatenationregular/</loc>
     <lastmod>2018-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/britt-maestroni-alan-r.-vazquez-valeria-avossa-peter-goos-veronica-cesio-horacio-heinzen-joerg-riener-andrew-cannavan/</loc>
+    <loc>/authors/hongquan-xu/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/andrew-cannavan/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/britt-maestroni/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/horacio-heinzen/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/joerg-riener/</loc>
     <lastmod>2018-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/potato/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/valeria-avossa/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/veronica-cesio/</loc>
     <lastmod>2018-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/concatenationoas/</loc>
@@ -194,10 +236,16 @@
     <loc>/talk/enbis2015/</loc>
     <lastmod>2015-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/alan-vazquez-alcocer-daniel-ladislao-garzon-cortes-rosa-maria-sanchez-casas/</loc>
+    <loc>/authors/alan-vazquez-alcocer/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/daniel-ladislao-garzon-cortes/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/lades/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/rosa-maria-sanchez-casas/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/1/</loc>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric D. Schoen | Alan R. Vazquez</title>
+    <link>/authors/eric-d.-schoen/</link>
+      <atom:link href="/authors/eric-d.-schoen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric D. Schoen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Eric D. Schoen</title>
+      <link>/authors/eric-d.-schoen/</link>
+    </image>
+    
+    <item>
+      <title>Systematic enumeration of two-level even-odd designs of strength 3</title>
+      <link>/publication/enumeration-evenodd/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/enumeration-evenodd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic enumeration of definitive screening designs</title>
+      <link>/publication/enumerationdsd/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/enumerationdsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-level orthogonal screening designs with 80, 96, and 112 runs, and up to 29 factors</title>
+      <link>/publication/twoleveloa8096112runs/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/twoleveloa8096112runs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mixed integer optimization approach for model selection in screening experiments</title>
+      <link>/publication/mio/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projections of Definitive Screening Designs by Dropping Columns: Selection and Evaluation</title>
+      <link>/publication/projectionsdsd/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/projectionsdsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructing Two-Level Designs by Concatenation of Strength-3 Orthogonal Arrays</title>
+      <link>/publication/concatenationoas/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/concatenationoas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

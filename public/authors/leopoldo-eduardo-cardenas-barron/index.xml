@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leopoldo Eduardo Cárdenas-Barrón | Alan R. Vazquez</title>
+    <link>/authors/leopoldo-eduardo-cardenas-barron/</link>
+      <atom:link href="/authors/leopoldo-eduardo-cardenas-barron/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leopoldo Eduardo Cárdenas-Barrón</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Leopoldo Eduardo Cárdenas-Barrón</title>
+      <link>/authors/leopoldo-eduardo-cardenas-barron/</link>
+    </image>
+    
+    <item>
+      <title>A simulation-based heuristic that promotes business profit while increasing the perceived quality of service industries</title>
+      <link>/publication/bank/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bank/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

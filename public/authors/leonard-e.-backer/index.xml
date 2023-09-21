@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonard E. Bäcker | Alan R. Vazquez</title>
+    <link>/authors/leonard-e.-backer/</link>
+      <atom:link href="/authors/leonard-e.-backer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leonard E. Bäcker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Leonard E. Bäcker</title>
+      <link>/authors/leonard-e.-backer/</link>
+    </image>
+    
+    <item>
+      <title>Superinfection exclusion factors drive a history-dependent switch from vertical to horizontal phage transmission</title>
+      <link>/publication/superinfection/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/superinfection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

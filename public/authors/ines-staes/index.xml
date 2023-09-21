@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ines Staes | Alan R. Vazquez</title>
+    <link>/authors/ines-staes/</link>
+      <atom:link href="/authors/ines-staes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ines Staes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Ines Staes</title>
+      <link>/authors/ines-staes/</link>
+    </image>
+    
+    <item>
+      <title>Superinfection exclusion factors drive a history-dependent switch from vertical to horizontal phage transmission</title>
+      <link>/publication/superinfection/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/superinfection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Ladislao Garzon-Cortes | Alan R. Vazquez</title>
+    <link>/authors/daniel-ladislao-garzon-cortes/</link>
+      <atom:link href="/authors/daniel-ladislao-garzon-cortes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Ladislao Garzon-Cortes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Daniel Ladislao Garzon-Cortes</title>
+      <link>/authors/daniel-ladislao-garzon-cortes/</link>
+    </image>
+    
+    <item>
+      <title>LADES: A Software for Constructing and Analyzing Longitudinal Designs in Biomedical Research</title>
+      <link>/publication/lades/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lades/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
