@@ -1,7 +1,8 @@
 ---
 abstract: 
 authors:
-- Pieter T. Eendebak, Alan R. Vazquez
+- Pieter T. Eendebak
+- admin
 date: "2019-02-27"
 doi: "https://doi.org/10.21105/joss.01097"
 featured: false
@@ -11,7 +12,7 @@ image:
   preview_only: false
 projects:
 publication: 'The Journal of Open Source Software'
-publication_short: "JOSS"
+publication_short: 
 publication_types:
 - "2"
 publishDate: "2019-02-27"
