@@ -7,12 +7,12 @@ education:
   - course: PhD in Industrial Engineering
     institution: University of Arkansas
     year: August 2023 - 
-#  - course: MSc in Applied Statistics
-#    institution: Tecnologico de Monterrey
-#    year: Aug 2010 - May 2012
-#  - course: BSc in Mathematics
-#    institution: Universidad Autonoma de Nuevo Leon
-#    year: Aug 2005 - May 2010
+  - course: MSc in Industrial and Manufacturing Engineering
+    institution: North Dakota Sate University
+    year: Aug 2021 - Jun 2023
+  - course: BSc in Industrial and Production Engineering 
+    institution: Kulna University of Engineering and Technology 
+    year: Apr 2014 - Apr 2018
 #email: "alanv@uark.edu"
 #interests:
 #- Optimal Design of Experiments
@@ -31,6 +31,9 @@ social:
 - icon: envelope
   icon_pack: fa
   link: "mailto:lasha@uark.edu"
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/labibanoshinasha/   
 superuser: true
 user_groups:
 - Graduate Students
