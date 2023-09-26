@@ -2,7 +2,7 @@
 authors:
 - grad
 #bio: Now in UCLA
-#education:
+education:
   courses:
   - course: BSc in Industrial Engineering
     institution: University of Arkansas
@@ -27,7 +27,7 @@ social:
   link: "mailto:lwgregg@uark.edu"
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/lathan-gregg/     
+  link: https://www.linkedin.com/in/lathan-gregg/
 superuser: true
 user_groups:
 - Undergraduate Students
