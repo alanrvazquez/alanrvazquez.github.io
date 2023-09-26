@@ -3,10 +3,10 @@ authors:
 - grad
 #bio: Now in UCLA
 #education:
-#  courses:
-#  - course: BSc in Mathematics
-#    institution: Universidad Autonoma de Nuevo Leon
-#    year: Aug 2005 - May 2010
+  courses:
+  - course: BSc in Industrial Engineering
+    institution: University of Arkansas
+    year: Aug 2019 - May 2024
 #email: "alanv@uark.edu"
 #interests:
 #- Optimal Design of Experiments
@@ -25,6 +25,9 @@ social:
 - icon: envelope
   icon_pack: fa
   link: "mailto:lwgregg@uark.edu"
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/lathan-gregg/     
 superuser: true
 user_groups:
 - Undergraduate Students
