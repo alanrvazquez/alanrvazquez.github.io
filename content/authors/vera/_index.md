@@ -6,7 +6,7 @@ education:
   courses:
   - course: BSc in Statistics and Data Science
     institution: University of California, Los Angeles
-    year: September 2022 - June 2025
+    year: Sep 2022 - Jun 2025
 #email: "alanv@uark.edu"
 #interests:
 #- Optimal Design of Experiments
