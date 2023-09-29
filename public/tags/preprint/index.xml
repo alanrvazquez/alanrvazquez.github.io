@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hongquan Xu | Alan R. Vazquez</title>
-    <link>/authors/hongquan-xu/</link>
-      <atom:link href="/authors/hongquan-xu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hongquan Xu</description>
+    <title>preprint | Alan R. Vazquez</title>
+    <link>/tags/preprint/</link>
+      <atom:link href="/tags/preprint/index.xml" rel="self" type="application/rss+xml" />
+    <description>preprint</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
-      <title>Hongquan Xu</title>
-      <link>/authors/hongquan-xu/</link>
+      <title>preprint</title>
+      <link>/tags/preprint/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/lhd/</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
       <guid>/publication/lhd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Construction of Two-Level Nonregular Designs of Strength Three With Large Run Sizes</title>
-      <link>/publication/concatenationregular/</link>
-      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/concatenationregular/</guid>
       <description></description>
     </item>
     

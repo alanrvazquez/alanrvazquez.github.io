@@ -3,7 +3,7 @@ abstract: "Computer experiments can build computationally cheap statistical mode
 authors:
 - admin 
 - Hongquan Xu
-date: "2023-11-25"
+date: "2023-09-25"
 doi: "doi:10.5705/ss.202021.0362"
 featured: false
 image:
@@ -14,12 +14,12 @@ projects:
 publication: 'Statistica Sinica'
 publication_short: 
 publication_types:
-- "2"
-publishDate: "2023-11-25"
+- "3"
+publishDate: "2023-09-25"
 slides:
 summary:
 tags:
-- published
+- preprint
 title: "An integer programming approach for constructing maximin distance designs from good lattice point sets"
 url_code: ""
 url_dataset: ""
