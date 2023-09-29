@@ -1,6 +1,6 @@
 ---
 authors:
-- alumni
+- alumni_xiaocong
 #bio: Now in UCLA
 education:
   courses:
