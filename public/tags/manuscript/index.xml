@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alan R. Vazquez</title>
-    <link>/authors/xiaocong/</link>
-      <atom:link href="/authors/xiaocong/index.xml" rel="self" type="application/rss+xml" />
-    <description>Alan R. Vazquez</description>
+    <title>manuscript | Alan R. Vazquez</title>
+    <link>/tags/manuscript/</link>
+      <atom:link href="/tags/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <description>manuscript</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
-      <title>Alan R. Vazquez</title>
-      <link>/authors/xiaocong/</link>
+      <title>manuscript</title>
+      <link>/tags/manuscript/</link>
     </image>
     
     <item>

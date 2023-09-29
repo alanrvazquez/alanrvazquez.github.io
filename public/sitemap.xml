@@ -21,10 +21,31 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
-    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/xiaocong/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/doe-pedagogy/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/manuscript/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/moda-2023/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
@@ -50,19 +71,10 @@
     <loc>/authors/pieter-t.-eendebak/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/published/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/enumeration-evenodd/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/two-levelqb/</loc>
@@ -145,9 +157,6 @@
   </url><url>
     <loc>/talk/euro2019/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/fmri/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
@@ -273,8 +282,6 @@
     <loc>/authors/sophia/</loc>
   </url><url>
     <loc>/authors/vera/</loc>
-  </url><url>
-    <loc>/authors/xiaocong/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
