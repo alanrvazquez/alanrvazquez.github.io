@@ -23,7 +23,7 @@ tags:
 title: "A review of undergraduate courses in Design of Experiments offered by American universities"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2309.16961"
 url_poster: ""
 url_project: "https://github.com/alanrvazquez/Exploring-the-Pedagogy-of-DoE"
 url_slides: ""
