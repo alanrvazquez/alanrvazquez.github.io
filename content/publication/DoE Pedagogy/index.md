@@ -4,7 +4,7 @@ authors:
 - admin
 - xiaocong 
 date: "2023-09-29"
-doi: 
+doi: "10.48550/arXiv.2309.16961"
 featured: false
 image:
   caption:
@@ -23,7 +23,7 @@ tags:
 title: "A review of undergraduate courses in Design of Experiments offered by American universities"
 url_code: ""
 url_dataset: ""
-url_pdf: "https://arxiv.org/abs/2309.16961"
+url_pdf: ""
 url_poster: ""
 url_project: "https://github.com/alanrvazquez/Exploring-the-Pedagogy-of-DoE"
 url_slides: ""
