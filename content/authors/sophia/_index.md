@@ -26,5 +26,5 @@ social:
   link: https://www.linkedin.com/in/sophia-forrester/  
 superuser: true
 user_groups:
-- Undergraduate Students
+- Past Collaborators
 ---

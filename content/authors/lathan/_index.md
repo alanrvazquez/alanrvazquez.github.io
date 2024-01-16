@@ -30,5 +30,5 @@ social:
   link: https://www.linkedin.com/in/lathan-gregg/
 superuser: true
 user_groups:
-- Undergraduate Students
+- Alumni
 ---

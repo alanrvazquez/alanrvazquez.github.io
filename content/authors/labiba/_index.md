@@ -36,5 +36,5 @@ social:
   link: https://www.linkedin.com/in/labibanoshinasha/   
 superuser: true
 user_groups:
-- Graduate Students
+- Past Collaborators
 ---

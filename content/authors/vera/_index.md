@@ -23,5 +23,5 @@ social:
   link: "mailto:verab@g.ucla.edu"
 superuser: true
 user_groups:
-- Visitors
+- Past Collaborators
 ---
