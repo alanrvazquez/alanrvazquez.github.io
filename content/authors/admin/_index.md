@@ -23,14 +23,14 @@ email: "alanv@uark.edu"
 name: Alan Roberto Vazquez
 organizations:
 - name: Department of Industrial Engineering
-  url: "https://industrial-engineering.uark.edu/"
-- name: University of Arkansas 
-  url: "https://www.uark.edu/"
-role: Assistant Professor
+  url: "https://tec.mx/en/innovation-and-transformation/bs-in-industrial-engineering"
+- name: Tecnológico de Monterrey 
+  url: "https://tec.mx/en"
+role: Full-Time Teaching Professor
 social:
 - icon: envelope
   icon_pack: fa
-  link: "mailto:alanv@uark.edu"
+  link: "mailto:alanrvazquez@tec.mx"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=bMZTeBIAAAAJ&hl=en
@@ -42,7 +42,7 @@ user_groups:
 - Principal Investigator
 ---
 
-I am an Assistant Professor at the [Department of Industrial Engineering at the University of Arkansas](https://industrial-engineering.uark.edu/). Previously, I was an Assistant Adjunct Professor at the [Department of Statistics at the University of California, Los Angeles](http://statistics.ucla.edu/), and a Junior Postdoctoral Fellow of the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)), Belgium. From July 2018 to September 2019, I was a Postdoctoral Researcher at the Department of Biosystems at [KU Leuven](https://www.biw.kuleuven.be/biosyst/english), Belgium. In May 2018, I obtained a Ph.D. in Applied Economics at the [University of Antwerp](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/), Belgium. The supervisors of my Ph.D. thesis were Prof. [Peter Goos](http://www.experimental-design.eu/who/) and Dr. [Eric Schoen](http://www.experimental-design.eu/who/). 
+I am a Full-Time Teaching Professor at the [Department of Industrial Engineering](https://tec.mx/en/innovation-and-transformation/bs-in-industrial-engineering) at [Tecnológico de Monterrey](https://tec.mx/en). Previously, I was an Assistant Professor at the [Department of Industrial Engineering at the University of Arkansas](https://industrial-engineering.uark.edu/). From 2020 to 2022, I was an Assistant Adjunct Professor at the [Department of Statistics at the University of California, Los Angeles](http://statistics.ucla.edu/), and a Junior Postdoctoral Fellow of the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)), Belgium. From July 2018 to September 2019, I was a Postdoctoral Researcher at the Department of Biosystems at [KU Leuven](https://www.biw.kuleuven.be/biosyst/english), Belgium. In May 2018, I obtained a Ph.D. in Applied Economics at the [University of Antwerp](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/), Belgium. The supervisors of my Ph.D. thesis were Prof. [Peter Goos](http://www.experimental-design.eu/who/) and Dr. [Eric Schoen](http://www.experimental-design.eu/who/). 
 
 I was born and raised in Monterrey, Nuevo Leon, Mexico.
 
