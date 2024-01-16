@@ -21,7 +21,16 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
-    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/informs2023/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/xiaocong/</loc>
     <lastmod>2023-09-29T00:00:00+00:00</lastmod>
@@ -30,9 +39,6 @@
     <lastmod>2023-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/doe-pedagogy/</loc>
-    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
     <lastmod>2023-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/manuscript/</loc>
@@ -57,9 +63,6 @@
     <lastmod>2023-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/moda-2023/</loc>
-    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/src-2023/</loc>
@@ -291,6 +294,12 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/tags/course/</loc>
+  </url><url>
+    <loc>/teaching/design-and-analysis-of-experiments/</loc>
+  </url><url>
     <loc>/membreships/</loc>
+  </url><url>
+    <loc>/teaching/</loc>
   </url>
 </urlset>

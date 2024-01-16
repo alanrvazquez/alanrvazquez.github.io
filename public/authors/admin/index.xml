@@ -5,12 +5,20 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alan R. Vazquez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Alan R. Vazquez</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>An integer programming algorithm for constructing maximin distance designs from good lattice point sets</title>
+      <link>/talk/informs2023/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/informs2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A review of undergraduate courses in Design of Experiments offered by American universities</title>
@@ -274,6 +282,14 @@
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Course: Design and Analysis of Experiments</title>
+      <link>/teaching/design-and-analysis-of-experiments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/teaching/design-and-analysis-of-experiments/</guid>
+      <description></description>
     </item>
     
   </channel>
