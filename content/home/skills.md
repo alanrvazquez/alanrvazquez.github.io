@@ -30,7 +30,7 @@ font_size = "30"
 [[feature]]
   #icon = "language"
   icon_pack = "fa"
-  name = "Data Science"
-  description = "Data Analysis, Model Selection, Teaching"
+  name = "Data Analytics"
+  description = "Creating value from data using model selection methods"
 
 +++
