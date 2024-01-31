@@ -18,14 +18,14 @@ font_size = "30"
 [[feature]]
   #icon = "code"
   icon_pack = "fa"
-  name = "Design of Experiments"
-  description = "Optimal design of Experiments, Computer Experiments, Clinical Trials"
+  name = "Smart Data Collection"
+  description = "Statistical design of physical and computer experiments, and clinical trials"
   
 [[feature]]
   #icon = "brain"
   icon_pack = "fa"
-  name = "Optimization"
-  description = "Mathematical programming, Metaheuristics"  
+  name = "Applied Optimization"
+  description = "Applications of mathematical programming and metaheuristics in statistics"  
   
 [[feature]]
   #icon = "language"
