@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Full-Time Teaching Professor">
+  <meta name="description" content="Modern randomization methods in clinical trials are invariably adaptive, meaning that the assignment of the next subject to a treatment group uses the accumulated information in the trial. Some of the recent adaptive randomization methods use mathematical programming to construct attractive clinical trials that balance the group features, such as their sizes and covariate distributions of their subjects. We review some of these methods and compare their performance with common covariate-adaptive randomization methods for small clinical trials. We introduce an energy distance measure that compares the discrepancy between the two groups using the joint distribution of the subjects&#39; covariates. This metric is more appealing than evaluating the discrepancy between the groups using their marginal covariate distributions. Using numerical experiments, we demonstrate the advantages of the mathematical programming methods under the new measure. In the supplementary material, we provide R codes to reproduce our study results and facilitate comparisons of different randomization procedures.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/weng-kee-wong/">
+  <link rel="alternate" hreflang="en-us" href="/publication/mip_trials/">
 
   
 
@@ -91,14 +91,12 @@
   
 
   
-  <link rel="alternate" href="/authors/weng-kee-wong/index.xml" type="application/rss+xml" title="Alan R. Vazquez">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/authors/weng-kee-wong/">
+  <link rel="canonical" href="/publication/mip_trials/">
 
   
   
@@ -113,12 +111,15 @@
   <meta property="twitter:creator" content="@alanrvazquez">
   
   <meta property="og:site_name" content="Alan R. Vazquez">
-  <meta property="og:url" content="/authors/weng-kee-wong/">
-  <meta property="og:title" content="Weng Kee Wong | Alan R. Vazquez">
-  <meta property="og:description" content="Full-Time Teaching Professor"><meta property="og:image" content="/img/icon-512.png">
+  <meta property="og:url" content="/publication/mip_trials/">
+  <meta property="og:title" content="Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data | Alan R. Vazquez">
+  <meta property="og:description" content="Modern randomization methods in clinical trials are invariably adaptive, meaning that the assignment of the next subject to a treatment group uses the accumulated information in the trial. Some of the recent adaptive randomization methods use mathematical programming to construct attractive clinical trials that balance the group features, such as their sizes and covariate distributions of their subjects. We review some of these methods and compare their performance with common covariate-adaptive randomization methods for small clinical trials. We introduce an energy distance measure that compares the discrepancy between the two groups using the joint distribution of the subjects&#39; covariates. This metric is more appealing than evaluating the discrepancy between the groups using their marginal covariate distributions. Using numerical experiments, we demonstrate the advantages of the mathematical programming methods under the new measure. In the supplementary material, we provide R codes to reproduce our study results and facilitate comparisons of different randomization procedures."><meta property="og:image" content="/img/icon-512.png">
   <meta property="twitter:image" content="/img/icon-512.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2024-02-06T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2024-02-06T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2024-02-06T00:00:00&#43;00:00">
   
 
   
@@ -130,7 +131,7 @@
 
 
 
-  <title>Weng Kee Wong | Alan R. Vazquez</title>
+  <title>Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data | Alan R. Vazquez</title>
 
 </head>
 
@@ -362,39 +363,286 @@
 </nav>
 
 
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
   
 
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Weng Kee Wong</h1>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2024-02-06 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2024-02-06 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Alan Roberto Vazquez</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/weng-kee-wong/">Weng Kee Wong</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>February 2024</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+  </ul>
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+  
+
+</div>
+
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/alanrvazquez/MP-for-randomization-of-clinical-trials" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Modern randomization methods in clinical trials are invariably adaptive, meaning that the assignment of the next subject to a treatment group uses the accumulated information in the trial. Some of the recent adaptive randomization methods use mathematical programming to construct attractive clinical trials that balance the group features, such as their sizes and covariate distributions of their subjects. We review some of these methods and compare their performance with common covariate-adaptive randomization methods for small clinical trials. We introduce an energy distance measure that compares the discrepancy between the two groups using the joint distribution of the subjects&rsquo; covariates. This metric is more appealing than evaluating the discrepancy between the groups using their marginal covariate distributions. Using numerical experiments, we demonstrate the advantages of the mathematical programming methods under the new measure. In the supplementary material, we provide R codes to reproduce our study results and facilitate comparisons of different randomization procedures.</p>
     
 
     
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#3">
+              Preprint
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
+
     
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Latest</h3>
-      <ul>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/manuscript/">manuscript</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu89497b1f03fdcf0cc00e0b7d0e3cd7a8_94636_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/">Alan Roberto Vazquez</a></h5>
+      <h6 class="card-subtitle">Full-Time Teaching Professor</h6>
+      <p class="card-text" itemprop="description">Data scientist working on the development of cost-effective experimental plans using modern optimization techniques</p>
+      <ul class="network-icon" aria-hidden="true">
         
-        <li>
-          <a href="/publication/mip_trials/">Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data</a>
-        </li>
+          
+          
+          
+          
+          
+          
+          
+          <li>
+            <a itemprop="sameAs" href="mailto:alanrvazquez@tec.mx" >
+              <i class="fa fa-envelope"></i>
+            </a>
+          </li>
         
-        <li>
-          <a href="/publication/two-levelqb/">Constructing two-level $Q_B$-optimal screening designs using mixed-integer programming and heuristic algorithms</a>
-        </li>
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://scholar.google.com/citations?user=bMZTeBIAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://github.com/alanrvazquez" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
         
       </ul>
     </div>
-    
   </div>
-</section>
+
+
+
+
+    
+
+
+  </div>
+</div>
+
+
 
       
 

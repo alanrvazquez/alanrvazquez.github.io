@@ -5,12 +5,20 @@
     <link>/authors/weng-kee-wong/</link>
       <atom:link href="/authors/weng-kee-wong/index.xml" rel="self" type="application/rss+xml" />
     <description>Weng Kee Wong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Weng Kee Wong</title>
       <link>/authors/weng-kee-wong/</link>
     </image>
+    
+    <item>
+      <title>Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data</title>
+      <link>/publication/mip_trials/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/mip_trials/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Constructing two-level $Q_B$-optimal screening designs using mixed-integer programming and heuristic algorithms</title>
