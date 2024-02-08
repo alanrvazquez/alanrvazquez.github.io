@@ -3,7 +3,7 @@ abstract: "Modern randomization methods in clinical trials are invariably adapti
 authors:
 - admin 
 - Weng Kee Wong
-date: ""
+date: "2024-02-6"
 doi: ""
 featured: false
 image:
