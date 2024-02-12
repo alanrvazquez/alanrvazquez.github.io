@@ -4,7 +4,7 @@ authors:
 - admin 
 - Weng Kee Wong
 date: "2024-02-08"
-doi: "https://arxiv.org/abs/2402.06058v1"
+doi: ""
 featured: false
 image:
   caption:
@@ -23,7 +23,7 @@ tags:
 title: "Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2402.06058v1"
 url_poster: ""
 url_project: "https://github.com/alanrvazquez/MP-for-randomization-of-clinical-trials"
 url_slides: ""
