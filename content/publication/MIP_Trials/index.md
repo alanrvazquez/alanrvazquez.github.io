@@ -4,7 +4,7 @@ authors:
 - admin 
 - Weng Kee Wong
 date: "2024-02-08"
-doi: "https://arxiv.org/abs/2402.06058"
+doi: "https://arxiv.org/abs/2402.06058v1"
 featured: false
 image:
   caption:
