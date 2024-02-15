@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaushik Luthra | Alan R. Vazquez</title>
+    <link>/authors/kaushik-luthra/</link>
+      <atom:link href="/authors/kaushik-luthra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaushik Luthra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Kaushik Luthra</title>
+      <link>/authors/kaushik-luthra/</link>
+    </image>
+    
+    <item>
+      <title>Quality characteristic of instant rice produced using microwave-assisted hot air drying</title>
+      <link>/publication/hot-air-experiment/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hot-air-experiment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

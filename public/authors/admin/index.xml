@@ -5,12 +5,20 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alan R. Vazquez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Alan R. Vazquez</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Quality characteristic of instant rice produced using microwave-assisted hot air drying</title>
+      <link>/publication/hot-air-experiment/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hot-air-experiment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data</title>

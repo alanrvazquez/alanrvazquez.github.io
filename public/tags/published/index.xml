@@ -5,12 +5,20 @@
     <link>/tags/published/</link>
       <atom:link href="/tags/published/index.xml" rel="self" type="application/rss+xml" />
     <description>published</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>published</title>
       <link>/tags/published/</link>
     </image>
+    
+    <item>
+      <title>Quality characteristic of instant rice produced using microwave-assisted hot air drying</title>
+      <link>/publication/hot-air-experiment/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hot-air-experiment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Systematic enumeration of two-level even-odd designs of strength 3</title>
