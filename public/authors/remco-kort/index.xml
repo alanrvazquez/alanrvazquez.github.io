@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remco Kort | Alan R. Vazquez</title>
+    <link>/authors/remco-kort/</link>
+      <atom:link href="/authors/remco-kort/index.xml" rel="self" type="application/rss+xml" />
+    <description>Remco Kort</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Remco Kort</title>
+      <link>/authors/remco-kort/</link>
+    </image>
+    
+    <item>
+      <title>Model Selection Reveals the Butyrate-Producing Gut Bacterium Coprococcus eutactus as Predictor for Language Development in 3-Year-Old Rural Ugandan Children</title>
+      <link>/publication/frontiers/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/frontiers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
