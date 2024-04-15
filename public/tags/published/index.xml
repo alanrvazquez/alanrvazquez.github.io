@@ -5,12 +5,28 @@
     <link>/tags/published/</link>
       <atom:link href="/tags/published/index.xml" rel="self" type="application/rss+xml" />
     <description>published</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>published</title>
       <link>/tags/published/</link>
     </image>
+    
+    <item>
+      <title>Drying Techniques for Precooked Hybrid Rice to Ensure Quality of Instantized Rice</title>
+      <link>/publication/drying-air-experiment/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/drying-air-experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data</title>
+      <link>/publication/mip_trials/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/mip_trials/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Statistical Approach to Understanding How Inter-Kernel Moisture Content Variability Affects Rice Quality</title>

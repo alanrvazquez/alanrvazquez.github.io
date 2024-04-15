@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Drying Techniques for Precooked Hybrid Rice to Ensure Quality of Instantized Rice</title>
+      <link>/publication/drying-air-experiment/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/drying-air-experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data</title>
+      <link>/publication/mip_trials/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/mip_trials/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Statistical Approach to Understanding How Inter-Kernel Moisture Content Variability Affects Rice Quality</title>
@@ -25,14 +41,6 @@
       <link>/publication/hot-air-experiment/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       <guid>/publication/hot-air-experiment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data</title>
-      <link>/publication/mip_trials/</link>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/mip_trials/</guid>
       <description></description>
     </item>
     
