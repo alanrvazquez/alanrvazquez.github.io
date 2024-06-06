@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Authors</title>
@@ -15,11 +15,19 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a Research Professor at the &lt;a href=&#34;https://tec.mx/en/innovation-and-transformation/bs-in-industrial-engineering&#34;&gt;Department of Industrial Engineering&lt;/a&gt; at &lt;a href=&#34;https://tec.mx/en&#34;&gt;Tecnologico de Monterrey&lt;/a&gt;. Previously, I was an Assistant Professor at the &lt;a href=&#34;https://industrial-engineering.uark.edu/&#34;&gt;Department of Industrial Engineering&lt;/a&gt; at the &lt;a href=&#34;https://www.uark.edu/&#34;&gt;University of Arkansas&lt;/a&gt;. From 2020 to 2022, I was an Assistant Adjunct Professor at the &lt;a href=&#34;http://statistics.ucla.edu/&#34;&gt;Department of Statistics&lt;/a&gt; at the &lt;a href=&#34;https://ucla.edu/&#34;&gt;University of California, Los Angeles (UCLA)&lt;/a&gt;, and a Junior Postdoctoral Fellow of the Research Foundation Flanders (&lt;a href=&#34;https://www.fwo.be/en/&#34;&gt;FWO&lt;/a&gt;), Belgium. From July 2018 to September 2019, I was a Postdoctoral Researcher at the Department of Biosystems at &lt;a href=&#34;https://www.biw.kuleuven.be/biosyst/english&#34;&gt;KU Leuven&lt;/a&gt;, Belgium. In May 2018, I obtained a Ph.D. in Applied Economics at the &lt;a href=&#34;https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/&#34;&gt;University of Antwerp&lt;/a&gt;, Belgium. The supervisors of my Ph.D. thesis were Prof. &lt;a href=&#34;http://www.experimental-design.eu/who/&#34;&gt;Peter Goos&lt;/a&gt; and Dr. &lt;a href=&#34;http://www.experimental-design.eu/who/&#34;&gt;Eric Schoen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I was born and raised in Monterrey, Nuevo Leon, Mexico.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/xiaocong/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/xiaocong/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -51,14 +59,6 @@
       <link>/authors/weng-kee-wong/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/authors/weng-kee-wong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/xiaocong/</link>
-      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/xiaocong/</guid>
       <description></description>
     </item>
     

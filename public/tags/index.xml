@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Tags</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>published</title>
-      <link>/tags/published/</link>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/published/</guid>
+      <title>manuscript</title>
+      <link>/tags/manuscript/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/manuscript/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>manuscript</title>
-      <link>/tags/manuscript/</link>
-      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/tags/manuscript/</guid>
+      <title>published</title>
+      <link>/tags/published/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/published/</guid>
       <description></description>
     </item>
     

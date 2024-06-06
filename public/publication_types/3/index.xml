@@ -5,7 +5,7 @@
     <link>/publication_types/3/</link>
       <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>3</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data</title>
-      <link>/publication/mip_trials/</link>
-      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/mip_trials/</guid>
+      <title>A review of courses in Design of Experiments offered to undergraduate students at American universities</title>
+      <link>/publication/doe-pedagogy/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/doe-pedagogy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A review of undergraduate courses in Design of Experiments offered by American universities</title>
-      <link>/publication/doe-pedagogy/</link>
-      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/doe-pedagogy/</guid>
+      <title>Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data</title>
+      <link>/publication/mip_trials/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/mip_trials/</guid>
       <description></description>
     </item>
     
