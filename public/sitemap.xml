@@ -47,6 +47,15 @@
     <loc>/tags/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/lhd/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/hongquan-xu/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/preprint/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication_types/2/</loc>
     <lastmod>2024-04-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -83,15 +92,6 @@
     <loc>/talk/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/lhd/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/hongquan-xu/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/preprint/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/talk/moda-2023/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -100,6 +100,9 @@
   </url><url>
     <loc>/talk/icodoe-23/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/two-levelqb/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/eric-d.-schoen/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
@@ -112,9 +115,6 @@
   </url><url>
     <loc>/publication/enumeration-evenodd/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/two-levelqb/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/enumerationdsd/</loc>
     <lastmod>2022-11-10T00:00:00+00:00</lastmod>
