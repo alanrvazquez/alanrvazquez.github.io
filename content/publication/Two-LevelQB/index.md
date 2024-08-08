@@ -4,7 +4,7 @@ authors:
 - admin 
 - Weng Kee Wong 
 - Peter Goos
-date: "2023-4-1"
+date: "2023-04-01"
 doi: "10.1007/s11222-022-10168-1"
 featured: false
 image:
@@ -16,7 +16,7 @@ publication: 'Statistics and Computing'
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2023-4-1"
+publishDate: "2023-04-01"
 slides:
 summary:
 tags:

@@ -3,7 +3,7 @@ abstract: "Computer experiments can build computationally cheap statistical mode
 authors:
 - admin 
 - Hongquan Xu
-date: "2024-06-1"
+date: "2024-06-01"
 doi: "doi:10.5705/ss.202021.0362"
 featured: false
 image:
@@ -15,7 +15,7 @@ publication: 'Statistica Sinica'
 publication_short: 
 publication_types:
 - "3"
-publishDate: "2024-06-1"
+publishDate: "2024-06-01"
 slides:
 summary:
 tags:
