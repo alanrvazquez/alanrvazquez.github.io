@@ -2,8 +2,8 @@
 abstract:
 all_day: true
 authors: [admin]
-date: 2023-07-09
-date_end: 2023-07-14
+date: 2024-09-15
+date_end: 2024-09-19
 event: Meeting of the European Network for Business and Industrial Statistics 2024 (ENBIS-24)
 event_url: https://conferences.enbis.org/event/34/
 featured: false
