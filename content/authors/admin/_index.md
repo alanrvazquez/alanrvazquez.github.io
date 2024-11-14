@@ -44,5 +44,10 @@ user_groups:
 
 I am a Research Professor at the [Department of Industrial Engineering](https://tec.mx/en/innovation-and-transformation/bs-in-industrial-engineering) at [Tecnologico de Monterrey](https://tec.mx/en). Previously, I was an Assistant Professor at the [Department of Industrial Engineering](https://industrial-engineering.uark.edu/) at the [University of Arkansas](https://www.uark.edu/). From 2020 to 2022, I was an Assistant Adjunct Professor at the [Department of Statistics](http://statistics.ucla.edu/) at the [University of California, Los Angeles (UCLA)](https://ucla.edu/), and a Junior Postdoctoral Fellow of the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)), Belgium. From July 2018 to September 2019, I was a Postdoctoral Researcher at the Department of Biosystems at [KU Leuven](https://www.biw.kuleuven.be/biosyst/english), Belgium. In May 2018, I obtained a Ph.D. in Applied Economics at the [University of Antwerp](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/), Belgium. The supervisors of my Ph.D. thesis were Prof. [Peter Goos](http://www.experimental-design.eu/who/) and Dr. [Eric Schoen](http://www.experimental-design.eu/who/). 
 
+Currently, I am also a member of the
+
+- Editorial board of the [Quality Engineering](https://www.tandfonline.com/journals/lqen20) journal, and
+- Council of the [Quality, Statistics, and Reliability section](https://connect.informs.org/qsr/home) of [INFORMS](https://www.informs.org/).
+
 I was born and raised in Monterrey, Nuevo Leon, Mexico.
 
