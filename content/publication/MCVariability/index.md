@@ -21,6 +21,8 @@ slides:
 summary:
 tags:
 - published
+- food
+- rice
 title: "A Statistical Approach to Understanding How Inter-Kernel Moisture Content Variability Affects Rice Quality"
 url_code: ""
 url_dataset: ""

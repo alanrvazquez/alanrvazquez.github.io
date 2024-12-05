@@ -37,6 +37,8 @@ slides:
 summary:
 tags:
 - published
+- food
+- rice
 title: "Drying Techniques for Precooked Hybrid Rice to Ensure Quality of Instantized Rice"
 url_code: ""
 url_dataset: ""

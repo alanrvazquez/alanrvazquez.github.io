@@ -14,12 +14,14 @@ projects:
 publication: 'Statistica Sinica'
 publication_short: 
 publication_types:
-- "3"
+- "2"
 publishDate: "2024-06-01"
 slides:
 summary:
 tags:
-- preprint
+- published
+- computer
+- optimization
 title: "An integer programming approach for constructing maximin distance designs from good lattice point sets"
 url_code: ""
 url_dataset: ""

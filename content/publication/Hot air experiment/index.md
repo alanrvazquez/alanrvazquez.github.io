@@ -28,6 +28,8 @@ slides:
 summary:
 tags:
 - published
+- food
+- rice
 title: "Quality characteristic of instant rice produced using microwave-assisted hot air drying"
 url_code: ""
 url_dataset: ""

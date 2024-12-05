@@ -21,6 +21,9 @@ slides:
 summary:
 tags:
 - published
+- engineering
+- effex
+- optimization
 title: "A mixed integer optimization approach for model selection in screening experiments"
 url_code: ""
 url_dataset: ""

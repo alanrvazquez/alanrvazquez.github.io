@@ -26,6 +26,8 @@ slides:
 summary:
 tags:
 - published
+- food
+- engineering
 title: "Ruggedness testing of an analytical method for pesticide residues in potato"
 url_code: ""
 url_dataset: ""

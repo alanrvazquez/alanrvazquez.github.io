@@ -4,7 +4,7 @@ authors:
 - admin 
 - Weng Kee Wong
 date: "2024-04-13"
-doi: "https://onlinelibrary.wiley.com/doi/10.1002/pst.2388"
+doi: "10.1002/pst.2388"
 featured: false
 image:
   caption:
@@ -14,12 +14,14 @@ projects:
 publication: "Pharmaceutical Statistics"
 publication_short: 
 publication_types:
-- "3"
+- "2"
 publishDate: 
 slides:
 summary:
 tags:
 - published
+- health
+
 title: "Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data"
 url_code: ""
 url_dataset: ""

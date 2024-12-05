@@ -21,6 +21,8 @@ slides:
 summary:
 tags:
 - published
+- engineering
+- health
 title: "Two-level orthogonal screening designs with 80, 96, and 112 runs, and up to 29 factors"
 url_code: ""
 url_dataset: ""

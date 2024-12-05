@@ -20,6 +20,8 @@ slides:
 summary:
 tags:
 - published
+- engineering
+- computer
 title: "Construction of Two-Level Nonregular Designs of Strength Three With Large Run Sizes"
 url_code: ""
 url_dataset: ""

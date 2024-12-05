@@ -21,6 +21,7 @@ slides:
 summary:
 tags:
 - published
+- optimization
 title: "Constructing two-level $Q_B$-optimal screening designs using mixed-integer programming and heuristic algorithms"
 url_code: ""
 url_dataset: ""
