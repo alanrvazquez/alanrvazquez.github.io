@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optimization | Alan R. Vazquez</title>
+    <link>/tags/optimization/</link>
+      <atom:link href="/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>optimization</title>
+      <link>/tags/optimization/</link>
+    </image>
+    
+    <item>
+      <title>An integer programming approach for constructing maximin distance designs from good lattice point sets</title>
+      <link>/publication/lhd/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/lhd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructing two-level $Q_B$-optimal screening designs using mixed-integer programming and heuristic algorithms</title>
+      <link>/publication/two-levelqb/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/two-levelqb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mixed integer optimization approach for model selection in screening experiments</title>
+      <link>/publication/mio/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>engineering | Alan R. Vazquez</title>
+    <link>/tags/engineering/</link>
+      <atom:link href="/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>engineering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>engineering</title>
+      <link>/tags/engineering/</link>
+    </image>
+    
+    <item>
+      <title>Comparing herbicide application methods with See &amp; Spray™ technology in soybean</title>
+      <link>/publication/weedtechnology/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/weedtechnology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-level orthogonal screening designs with 80, 96, and 112 runs, and up to 29 factors</title>
+      <link>/publication/twoleveloa8096112runs/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/twoleveloa8096112runs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mixed integer optimization approach for model selection in screening experiments</title>
+      <link>/publication/mio/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of Two-Level Nonregular Designs of Strength Three With Large Run Sizes</title>
+      <link>/publication/concatenationregular/</link>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/concatenationregular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruggedness testing of an analytical method for pesticide residues in potato</title>
+      <link>/publication/potato/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/potato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructing Two-Level Designs by Concatenation of Strength-3 Orthogonal Arrays</title>
+      <link>/publication/concatenationoas/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/concatenationoas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

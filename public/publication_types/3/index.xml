@@ -5,7 +5,7 @@
     <link>/publication_types/3/</link>
       <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>3</title>
@@ -13,26 +13,10 @@
     </image>
     
     <item>
-      <title>A review of courses in Design of Experiments offered to undergraduate students at American universities</title>
-      <link>/publication/doe-pedagogy/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/doe-pedagogy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An integer programming approach for constructing maximin distance designs from good lattice point sets</title>
-      <link>/publication/lhd/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/lhd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data</title>
-      <link>/publication/mip_trials/</link>
-      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/mip_trials/</guid>
+      <title>Constructing large Orthogonal Minimally Aliased Response Surface designs by concatenating two Definitive Screening Designs</title>
+      <link>/publication/concatenationdsds/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/concatenationdsds/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael M. Houston | Alan R. Vazquez</title>
+    <link>/authors/michael-m.-houston/</link>
+      <atom:link href="/authors/michael-m.-houston/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael M. Houston</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Michael M. Houston</title>
+      <link>/authors/michael-m.-houston/</link>
+    </image>
+    
+    <item>
+      <title>Comparing herbicide application methods with See &amp; Spray™ technology in soybean</title>
+      <link>/publication/weedtechnology/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/weedtechnology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

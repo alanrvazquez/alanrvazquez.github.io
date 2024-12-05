@@ -5,12 +5,36 @@
     <link>/tags/published/</link>
       <atom:link href="/tags/published/index.xml" rel="self" type="application/rss+xml" />
     <description>published</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>published</title>
       <link>/tags/published/</link>
     </image>
+    
+    <item>
+      <title>Comparing herbicide application methods with See &amp; Spray™ technology in soybean</title>
+      <link>/publication/weedtechnology/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/weedtechnology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review of Design of Experiments Courses Offered to Undergraduate Students at American Universities</title>
+      <link>/publication/doe-pedagogy/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/doe-pedagogy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integer programming approach for constructing maximin distance designs from good lattice point sets</title>
+      <link>/publication/lhd/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/lhd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Drying Techniques for Precooked Hybrid Rice to Ensure Quality of Instantized Rice</title>

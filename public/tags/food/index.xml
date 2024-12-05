@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>food | Alan R. Vazquez</title>
+    <link>/tags/food/</link>
+      <atom:link href="/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <description>food</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>food</title>
+      <link>/tags/food/</link>
+    </image>
+    
+    <item>
+      <title>Constructing large Orthogonal Minimally Aliased Response Surface designs by concatenating two Definitive Screening Designs</title>
+      <link>/publication/concatenationdsds/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/concatenationdsds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drying Techniques for Precooked Hybrid Rice to Ensure Quality of Instantized Rice</title>
+      <link>/publication/drying-air-experiment/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/drying-air-experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Statistical Approach to Understanding How Inter-Kernel Moisture Content Variability Affects Rice Quality</title>
+      <link>/publication/mcvariability/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/mcvariability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality characteristic of instant rice produced using microwave-assisted hot air drying</title>
+      <link>/publication/hot-air-experiment/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hot-air-experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruggedness testing of an analytical method for pesticide residues in potato</title>
+      <link>/publication/potato/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/potato/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
