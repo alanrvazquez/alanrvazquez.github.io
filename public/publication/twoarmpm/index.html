@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Research Professor">
+  <meta name="description" content="Subjects with complex and serious diseases, such as malaria and leukemia, can have adverse reactions to the best-known treatments.  The personalized medicine approach becomes beneficial because the subjects’ characteristics or covariates are considered before a treatment assignment. Attractive statistical methods for personalized medicine determine the best treatment using the interaction between the treatments and the subject&#39;s covariates. To estimate this interaction, we use a two-arm clinical trial in which one of two treatments is assigned to each subject in a pre-selected sample. In this article, we introduce a statistical criterion to evaluate two-arm clinical trials in terms of the interaction estimation for all potential subjects’ covariates, which can be quantitative or categorical. We develop theoretical results and two optimization algorithms to construct trials based on this criterion. Specifically, we introduce an integer programming algorithm that guarantees convergence to the optimal trial and a computationally efficient coordinate-exchange algorithm with a novel updating formula. Numerical experiments demonstrate the computational performance of our algorithms to construct two-arm clinical trials for various problems. As an application, we show that our algorithms can redesign a two-arm Scleroderma clinical trial with a smaller variance of the interaction estimate than the implemented trial for a test set of subjects.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/tags/health/">
+  <link rel="alternate" hreflang="en-us" href="/publication/twoarmpm/">
 
   
 
@@ -91,14 +91,12 @@
   
 
   
-  <link rel="alternate" href="/tags/health/index.xml" type="application/rss+xml" title="Alan R. Vazquez">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/tags/health/">
+  <link rel="canonical" href="/publication/twoarmpm/">
 
   
   
@@ -113,12 +111,15 @@
   <meta property="twitter:creator" content="@alanrvazquez">
   
   <meta property="og:site_name" content="Alan R. Vazquez">
-  <meta property="og:url" content="/tags/health/">
-  <meta property="og:title" content="health | Alan R. Vazquez">
-  <meta property="og:description" content="Research Professor"><meta property="og:image" content="/img/icon-512.png">
+  <meta property="og:url" content="/publication/twoarmpm/">
+  <meta property="og:title" content="Optimizing Two-Arm Clinical Trials for Personalized Medicine using Integer Programming and Heuristic Algorithms | Alan R. Vazquez">
+  <meta property="og:description" content="Subjects with complex and serious diseases, such as malaria and leukemia, can have adverse reactions to the best-known treatments.  The personalized medicine approach becomes beneficial because the subjects’ characteristics or covariates are considered before a treatment assignment. Attractive statistical methods for personalized medicine determine the best treatment using the interaction between the treatments and the subject&#39;s covariates. To estimate this interaction, we use a two-arm clinical trial in which one of two treatments is assigned to each subject in a pre-selected sample. In this article, we introduce a statistical criterion to evaluate two-arm clinical trials in terms of the interaction estimation for all potential subjects’ covariates, which can be quantitative or categorical. We develop theoretical results and two optimization algorithms to construct trials based on this criterion. Specifically, we introduce an integer programming algorithm that guarantees convergence to the optimal trial and a computationally efficient coordinate-exchange algorithm with a novel updating formula. Numerical experiments demonstrate the computational performance of our algorithms to construct two-arm clinical trials for various problems. As an application, we show that our algorithms can redesign a two-arm Scleroderma clinical trial with a smaller variance of the interaction estimate than the implemented trial for a test set of subjects."><meta property="og:image" content="/img/icon-512.png">
   <meta property="twitter:image" content="/img/icon-512.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2024-12-10T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2024-12-10T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2024-12-10T00:00:00&#43;00:00">
   
 
   
@@ -130,7 +131,7 @@
 
 
 
-  <title>health | Alan R. Vazquez</title>
+  <title>Optimizing Two-Arm Clinical Trials for Personalized Medicine using Integer Programming and Heuristic Algorithms | Alan R. Vazquez</title>
 
 </head>
 
@@ -362,6 +363,115 @@
 </nav>
 
 
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Optimizing Two-Arm Clinical Trials for Personalized Medicine using Integer Programming and Heuristic Algorithms</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2024-12-10 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2024-12-10 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Alan Roberto Vazquez</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/weng-kee-wong/">Weng-Kee Wong</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>December 2024</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
   
 
 
@@ -372,80 +482,171 @@
 
 
 
+<a class="btn btn-outline-primary my-1 mr-1" href="https://alanrvazquez.shinyapps.io/DashboardORforPM/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Subjects with complex and serious diseases, such as malaria and leukemia, can have adverse reactions to the best-known treatments.  The personalized medicine approach becomes beneficial because the subjects’ characteristics or covariates are considered before a treatment assignment. Attractive statistical methods for personalized medicine determine the best treatment using the interaction between the treatments and the subject&rsquo;s covariates. To estimate this interaction, we use a two-arm clinical trial in which one of two treatments is assigned to each subject in a pre-selected sample. In this article, we introduce a statistical criterion to evaluate two-arm clinical trials in terms of the interaction estimation for all potential subjects’ covariates, which can be quantitative or categorical. We develop theoretical results and two optimization algorithms to construct trials based on this criterion. Specifically, we introduce an integer programming algorithm that guarantees convergence to the optimal trial and a computationally efficient coordinate-exchange algorithm with a novel updating formula. Numerical experiments demonstrate the computational performance of our algorithms to construct two-arm clinical trials for various problems. As an application, we show that our algorithms can redesign a two-arm Scleroderma clinical trial with a smaller variance of the interaction estimate than the implemented trial for a test set of subjects.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#3">
+              Preprint
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/manuscript/">manuscript</a>
+  
+  <a class="badge badge-light" href="/tags/optimization/">optimization</a>
+  
+  <a class="badge badge-light" href="/tags/health/">health</a>
+  
+</div>
+
+
+    
+
+
+
+
+
 
 
 
   
+  
+    
+  
+  
+
+
+
+
 
   
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">health</h1>
-
   
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu89497b1f03fdcf0cc00e0b7d0e3cd7a8_94636_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+    
 
-  
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/">Alan Roberto Vazquez</a></h5>
+      <h6 class="card-subtitle">Research Professor</h6>
+      <p class="card-text" itemprop="description">Data scientist working on the development of cost-effective experimental plans using modern optimization techniques</p>
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+          
+          
+          
+          
+          <li>
+            <a itemprop="sameAs" href="mailto:alanrvazquez@tec.mx" >
+              <i class="fa fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://scholar.google.com/citations?user=bMZTeBIAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://github.com/alanrvazquez" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+    
+
+
+  </div>
 </div>
 
 
-
-<div class="universal-wrapper">
-  
-
-  
-  
-  <div>
-    <h2><a href="/publication/twoarmpm/">Optimizing Two-Arm Clinical Trials for Personalized Medicine using Integer Programming and Heuristic Algorithms</a></h2>
-    <div class="article-style">
-      
-      Subjects with complex and serious diseases, such as malaria and leukemia, can have adverse reactions to the best-known treatments.  The personalized medicine approach becomes beneficial because the subjects’ characteristics or covariates are …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/concatenationdsds/">Constructing large Orthogonal Minimally Aliased Response Surface designs by concatenating two Definitive Screening Designs</a></h2>
-    <div class="article-style">
-      
-      Orthogonal minimally aliased response surface (OMARS) designs permit the study of quantitative factors at three levels using an economical number of runs. In these designs, the linear effects of the factors are neither aliased with each other nor …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/mip_trials/">Mathematical programming tools for randomization purposes in small two-arm clinical trials: A case study with real data</a></h2>
-    <div class="article-style">
-      
-      Modern randomization methods in clinical trials are invariably adaptive, meaning that the assignment of the next subject to a treatment group uses the accumulated information in the trial. Some of the recent adaptive randomization methods use …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/frontiers/">Model Selection Reveals the Butyrate-Producing Gut Bacterium Coprococcus eutactus as Predictor for Language Development in 3-Year-Old Rural Ugandan Children</a></h2>
-    <div class="article-style">
-      
-      Introduction: The metabolic activity of the gut microbiota plays a pivotal role in the gut-brain axis through the effects of bacterial metabolites on brain function and development. In this study we investigated the association of gut microbiota …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/twoleveloa8096112runs/">Two-level orthogonal screening designs with 80, 96, and 112 runs, and up to 29 factors</a></h2>
-    <div class="article-style">
-      
-      Due to recent advances in the development of laboratory equipment, large screening experiments can now be conducted to study the joint impact of up to a few dozen factors. While much is known about orthogonal designs involving 64 and 128 runs, there …
-      
-    </div>
-  </div>
-  
-
-  
-
-</div>
 
       
 

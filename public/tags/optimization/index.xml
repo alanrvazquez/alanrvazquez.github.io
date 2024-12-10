@@ -5,12 +5,20 @@
     <link>/tags/optimization/</link>
       <atom:link href="/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
     <description>optimization</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>optimization</title>
       <link>/tags/optimization/</link>
     </image>
+    
+    <item>
+      <title>Optimizing Two-Arm Clinical Trials for Personalized Medicine using Integer Programming and Heuristic Algorithms</title>
+      <link>/publication/twoarmpm/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/twoarmpm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An integer programming approach for constructing maximin distance designs from good lattice point sets</title>
