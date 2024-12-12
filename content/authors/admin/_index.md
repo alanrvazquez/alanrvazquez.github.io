@@ -46,8 +46,9 @@ I am a Research Professor at the [Department of Industrial Engineering](https://
 
 Currently, I am also a member of the
 
-- Editorial board of the [Quality Engineering](https://www.tandfonline.com/journals/lqen20) journal, and
+- Editorial board of the [Quality Engineering](https://www.tandfonline.com/journals/lqen20) journal.
 - Council of the [Quality, Statistics, and Reliability section](https://connect.informs.org/qsr/home) of [INFORMS](https://www.informs.org/).
+- [Sistema Nacional de Investigadoras e Investigadores](https://conahcyt.mx/sistema-nacional-de-investigadores/), Level 1.
 
 I was born and raised in Monterrey, Nuevo Leon, Mexico.
 
