@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Recent Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Constructing two-level $Q_B$-optimal screening designs using exact and heuristic algorithms</title>
+      <link>/talk/cfecmstats-2024/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/cfecmstats-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Constructing large OMARS designs by concatenating definitive screening designs</title>
