@@ -12,6 +12,7 @@ education:
 #- Optimal Design of Experiments
 name: Ximena Hernandez-Osorio
 organizations:
+- name: Department of Industrial Engineering
 - name: Tecnologico de Monterrey
   url: "https://tec.mx/es"
 role: Undergraduate Researcher
