@@ -33,6 +33,5 @@ social:
   link: https://www.linkedin.com/in/xiaocongxuan/    
 superuser: true
 user_groups:
-- Collaborators
 - Alumni
 ---

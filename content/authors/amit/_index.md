@@ -36,5 +36,5 @@ social:
   link: https://www.linkedin.com/in/amit-kumar-saha1311016/     
 superuser: true
 user_groups:
-- Collaborators
+- Past Collaborators
 ---
