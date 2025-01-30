@@ -6,7 +6,7 @@ education:
   courses:
   - course: Bachelor of Engineering
     institution: University of Applied Sciences Kiel
-    year: Aug 2022 - Jun 2026
+    year: Sep 2022 - Aug 2025
 #  - course: MA in Statistics
 #    institution: Columbia University
 #    year: Sep 2023 - Dec 2024    
