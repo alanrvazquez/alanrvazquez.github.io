@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.3.0",
+    "Version": "4.4.1",
     "Repositories": [
       {
         "Name": "CRAN",
@@ -42,7 +42,7 @@
     },
     "blogdown": {
       "Package": "blogdown",
-      "Version": "1.18",
+      "Version": "1.21",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -58,7 +58,7 @@
         "xfun",
         "yaml"
       ],
-      "Hash": "17045c17691502267d716133eb7058c8"
+      "Hash": "f2636b4ca8506b9bc1bfb3d7a09bb171"
     },
     "bookdown": {
       "Package": "bookdown",
