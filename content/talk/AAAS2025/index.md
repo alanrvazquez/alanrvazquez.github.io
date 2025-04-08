@@ -26,8 +26,8 @@ slides:
 summary: "Winner of the AAAS 2025 Student E-poster Competition in Social Sciences"
 tags: []
 title: "Food Insecurity in Mexico: Food is a Right, Not a Privilege"
-url_code: ""
-url_pdf: 
+url_code: 
+url_pdf: https://drive.google.com/file/d/1FsHDyZ8TOLBe95XSVka-6ot1-4Azynln/view?usp=sharing 
 url_slides: 
 url_video: 
 ---

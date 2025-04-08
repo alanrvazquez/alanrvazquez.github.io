@@ -26,7 +26,7 @@ slides:
 summary: "Co-winner of the 2024 eUSR Poster Competition"
 tags: []
 title: "A Factorial Analysis of the Impact of a High-Fiber Supplement to Reduce Obesity in Wistar Rats"
-url_code: ""
+url_code: 
 url_pdf: 
 url_slides: 
 url_video: https://www.youtube.com/watch?v=jT7_JdUaJX0&ab_channel=CAUSEweb  
