@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isaac Zaragoza-Oldendorff | Alan R. Vazquez</title>
+    <link>/authors/isaac-zaragoza-oldendorff/</link>
+      <atom:link href="/authors/isaac-zaragoza-oldendorff/index.xml" rel="self" type="application/rss+xml" />
+    <description>Isaac Zaragoza-Oldendorff</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Isaac Zaragoza-Oldendorff</title>
+      <link>/authors/isaac-zaragoza-oldendorff/</link>
+    </image>
+    
+    <item>
+      <title>Food Insecurity in Mexico: Food is a Right, Not a Privilege</title>
+      <link>/talk/aaas2025/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/aaas2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Recent Talks</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Food Insecurity in Mexico: Food is a Right, Not a Privilege</title>
+      <link>/talk/aaas2025/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/aaas2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Constructing two-level $Q_B$-optimal screening designs using exact and heuristic algorithms</title>
       <link>/talk/cfecmstats-2024/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
       <guid>/talk/cfecmstats-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Factorial Analysis of the Impact of a High-Fiber Supplement to Reduce Obesity in Wistar Rats</title>
+      <link>/talk/eusr2024/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/eusr2024/</guid>
       <description></description>
     </item>
     

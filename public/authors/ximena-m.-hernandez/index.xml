@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ximena M. Hernandez | Alan R. Vazquez</title>
+    <link>/authors/ximena-m.-hernandez/</link>
+      <atom:link href="/authors/ximena-m.-hernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ximena M. Hernandez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Ximena M. Hernandez</title>
+      <link>/authors/ximena-m.-hernandez/</link>
+    </image>
+    
+    <item>
+      <title>A Factorial Analysis of the Impact of a High-Fiber Supplement to Reduce Obesity in Wistar Rats</title>
+      <link>/talk/eusr2024/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/eusr2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
