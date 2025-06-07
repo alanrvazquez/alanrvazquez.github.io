@@ -5,7 +5,7 @@ authors:
   - Ximena M. Hernandez
   - admin
 date: 2024-11-08
-date_end: 2024-11-08
+date_end: 
 event: 2024 eUSR Conference
 event_url: https://www.causeweb.org/usproc/eusr/2024
 featured: false

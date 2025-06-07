@@ -5,7 +5,7 @@ authors:
   - Isaac Zaragoza-Oldendorff
   - admin
 date: 2025-02-13
-date_end: 2025-02-15
+date_end: 
 event: 2025 AAAS Annual Meeting
 event_url: https://www.aaas.org/resources/2025-aaas-annual-meeting-archive
 featured: false
