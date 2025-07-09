@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Data scientist working on the construction and analysis of cost-effective experimental plans using modern optimization techniques
+bio: Data scientist working on the construction and analysis of cost-effective experimental plans using optimization techniques and artificial intelligence
 education:
   courses:
   - course: PhD in Applied Economics
