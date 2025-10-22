@@ -5,12 +5,20 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alan R. Vazquez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Alan R. Vazquez</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Optimizing Two-Arm Clinical Trials for Personalized Medicine using Integer Programming and Heuristic Algorithms</title>
+      <link>/publication/twoarmpm/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/twoarmpm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A systematic assessment of ChatGPT for constructing two-level fractional factorial designs</title>
@@ -41,14 +49,6 @@
       <link>/talk/cfecmstats-2024/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
       <guid>/talk/cfecmstats-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing Two-Arm Clinical Trials for Personalized Medicine using Integer Programming and Heuristic Algorithms</title>
-      <link>/publication/twoarmpm/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/twoarmpm/</guid>
       <description></description>
     </item>
     
