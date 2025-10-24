@@ -24,7 +24,7 @@ tags:
 - food
 - health
 title: "Constructing large Orthogonal Minimally Aliased Response Surface designs by concatenating two Definitive Screening Designs"
-url_code: ""
+url_code: "https://github.com/alanrvazquez/cOMARS_simulations"
 url_dataset: ""
 url_pdf: ""
 url_poster: ""
