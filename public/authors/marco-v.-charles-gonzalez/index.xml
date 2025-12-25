@@ -5,7 +5,7 @@
     <link>/authors/marco-v.-charles-gonzalez/</link>
       <atom:link href="/authors/marco-v.-charles-gonzalez/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco V. Charles-Gonzalez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Marco V. Charles-Gonzalez</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>A systematic assessment of ChatGPT for constructing two-level fractional factorial designs</title>
+      <title>A systematic assessment of Large Language Models for constructing two-level fractional factorial designs</title>
       <link>/publication/chatgpt/</link>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       <guid>/publication/chatgpt/</guid>
       <description></description>
     </item>

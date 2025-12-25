@@ -5,7 +5,7 @@
     <link>/tags/health/</link>
       <atom:link href="/tags/health/index.xml" rel="self" type="application/rss+xml" />
     <description>health</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>health</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Optimizing Two-Arm Clinical Trials for Personalized Medicine using Integer Programming and Heuristic Algorithms</title>
-      <link>/publication/twoarmpm/</link>
-      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/twoarmpm/</guid>
+      <title>Constructing large Orthogonal Minimally Aliased Response Surface designs by concatenating two Definitive Screening Designs</title>
+      <link>/publication/concatenationdsds/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/concatenationdsds/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Constructing large Orthogonal Minimally Aliased Response Surface designs by concatenating two Definitive Screening Designs</title>
-      <link>/publication/concatenationdsds/</link>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/concatenationdsds/</guid>
+      <title>Optimizing Two-Arm Clinical Trials for Personalized Medicine using Integer Programming and Heuristic Algorithms</title>
+      <link>/publication/twoarmpm/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/twoarmpm/</guid>
       <description></description>
     </item>
     

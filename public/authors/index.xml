@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am an Assistant Professor at the &lt;a href=&#34;https://tec.mx/en/innovation-and-transformation/bs-in-industrial-engineering&#34;&gt;Department of Industrial Engineering&lt;/a&gt; at &lt;a href=&#34;https://tec.mx/en&#34;&gt;Tecnologico de Monterrey&lt;/a&gt;, and an Adjunct Faculty at the &lt;a href=&#34;https://food-science.uark.edu/index.php&#34;&gt;Department of Food Science&lt;/a&gt; at the &lt;a href=&#34;https://uada.edu/&#34;&gt;University of Arkansas, Division of Agriculture&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Currently, I am a member of the&lt;/p&gt;
@@ -31,17 +31,25 @@
     </item>
     
     <item>
-      <title>Weng Kee Wong</title>
-      <link>/authors/weng-kee-wong/</link>
-      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/authors/weng-kee-wong/</guid>
+      <title>Eric D. Schoen</title>
+      <link>/authors/eric-d.-schoen/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/eric-d.-schoen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Goos</title>
+      <link>/authors/peter-goos/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/peter-goos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kilian M. Rother</title>
       <link>/authors/kilian-m.-rother/</link>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       <guid>/authors/kilian-m.-rother/</guid>
       <description></description>
     </item>
@@ -49,8 +57,16 @@
     <item>
       <title>Marco V. Charles-Gonzalez</title>
       <link>/authors/marco-v.-charles-gonzalez/</link>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       <guid>/authors/marco-v.-charles-gonzalez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weng Kee Wong</title>
+      <link>/authors/weng-kee-wong/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/weng-kee-wong/</guid>
       <description></description>
     </item>
     
@@ -67,22 +83,6 @@
       <link>/authors/isaac-zaragoza-oldendorff/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
       <guid>/authors/isaac-zaragoza-oldendorff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eric D. Schoen</title>
-      <link>/authors/eric-d.-schoen/</link>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/eric-d.-schoen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peter Goos</title>
-      <link>/authors/peter-goos/</link>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/peter-goos/</guid>
       <description></description>
     </item>
     
