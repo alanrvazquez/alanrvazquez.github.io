@@ -1,5 +1,5 @@
 ---
-abstract: "Design of experiments concerns cost-efficient experimental plans to fast-track product innovation and improvement. In the literature, the most common plans are two-level fractional factorial designs, which study each factor at two levels. Traditionally, these designs are obtained from catalogs available in standard textbooks or statistical software. However, modern generative artificial intelligence systems like ChatGPT can now produce two-level fractional factorial designs. To our knowledge, there is no systematic assessment of the quality of these designs. In this paper, we thus evaluate the performance of ChatGPT to generate two-level fractional factorial designs with 8, 16 and 32 runs, and 4 to 31 factors. To this end, we use prompt engineering techniques to develop a high-quality set of tasks that serve as input to ChatGPT. We compare the designs obtained by ChatGPT with the best-known designs in terms of resolution and minimum aberration criteria. We show that ChatGPT can construct good 8-, 16-, and 32-run designs with up to nine factors, but it fails to produce designs with more factors."
+abstract: "Two-level fractional factorial designs permit the study multiple factors using a limited number of runs. Traditionally, these designs are obtained from catalogs available in standard textbooks or statistical software. However, modern Large Language Models (LLMs) can now produce two-level fractional factorial designs, but the quality of these designs has not been previously assessed. In this paper, we perform a systematic evaluation of two popular classes of LLMs, namely GPT and Gemini models, to construct two-level fractional factorial designs with 8, 16, and 32 runs, and 4 to 26 factors. To this end, we use prompting techniques to develop a high-quality set of design construction tasks for the LLMs. We compare the designs obtained by the LLMs with the best-known designs in terms of resolution and minimum aberration criteria. We show that the LLMs can effectively construct optimal 8-, 16-, and 32-run designs with up to eight factors."
 authors:
 - admin 
 - Kilian M. Rother 
@@ -22,10 +22,10 @@ summary:
 tags:
 - manuscript
 - AI
-title: "A systematic assessment of ChatGPT for constructing two-level fractional factorial designs"
+title: "A systematic assessment of Large Language Models for constructing two-level fractional factorial designs"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2512.17113"
 url_poster: ""
 url_project: ""
 url_slides: ""
