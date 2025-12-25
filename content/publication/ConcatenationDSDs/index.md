@@ -26,7 +26,7 @@ tags:
 title: "Constructing large Orthogonal Minimally Aliased Response Surface designs by concatenating two Definitive Screening Designs"
 url_code: "https://github.com/alanrvazquez/cOMARS_simulations"
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2511.02984"
 url_poster: ""
 url_project: "https://github.com/alanrvazquez/CCVNS_algorithm"
 url_slides: ""
