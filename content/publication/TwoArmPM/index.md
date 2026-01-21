@@ -4,7 +4,7 @@ authors:
 - admin
 - Weng-Kee Wong
 date: "2025-10-19"
-doi: 
+doi: "10.1080/10618600.2025.2591744"
 featured: false
 image:
   caption:
