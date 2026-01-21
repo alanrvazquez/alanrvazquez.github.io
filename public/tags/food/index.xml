@@ -5,12 +5,28 @@
     <link>/tags/food/</link>
       <atom:link href="/tags/food/index.xml" rel="self" type="application/rss+xml" />
     <description>food</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>food</title>
       <link>/tags/food/</link>
     </image>
+    
+    <item>
+      <title>Impact of Simulated Low-Leakage Enclosure Transportation and Storage Environment on Milled Rice Breakage and Quality Characteristics</title>
+      <link>/publication/ricetransportation/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/ricetransportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Arkansas Rice Cultivars with Similar Physicochemical Attributes and Milling Performance</title>
+      <link>/publication/ricevariability/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/ricevariability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Constructing large Orthogonal Minimally Aliased Response Surface designs by concatenating two Definitive Screening Designs</title>

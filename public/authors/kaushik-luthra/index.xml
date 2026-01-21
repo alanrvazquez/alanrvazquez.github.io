@@ -5,12 +5,20 @@
     <link>/authors/kaushik-luthra/</link>
       <atom:link href="/authors/kaushik-luthra/index.xml" rel="self" type="application/rss+xml" />
     <description>Kaushik Luthra</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Kaushik Luthra</title>
       <link>/authors/kaushik-luthra/</link>
     </image>
+    
+    <item>
+      <title>Identifying Arkansas Rice Cultivars with Similar Physicochemical Attributes and Milling Performance</title>
+      <link>/publication/ricevariability/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/ricevariability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Drying Techniques for Precooked Hybrid Rice to Ensure Quality of Instantized Rice</title>

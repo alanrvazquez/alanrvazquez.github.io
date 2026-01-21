@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devisree Chukkapalli | Alan R. Vazquez</title>
+    <link>/authors/devisree-chukkapalli/</link>
+      <atom:link href="/authors/devisree-chukkapalli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Devisree Chukkapalli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Devisree Chukkapalli</title>
+      <link>/authors/devisree-chukkapalli/</link>
+    </image>
+    
+    <item>
+      <title>Impact of Simulated Low-Leakage Enclosure Transportation and Storage Environment on Milled Rice Breakage and Quality Characteristics</title>
+      <link>/publication/ricetransportation/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/ricetransportation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

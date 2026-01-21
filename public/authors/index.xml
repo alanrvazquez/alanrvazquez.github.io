@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am an Assistant Professor at the &lt;a href=&#34;https://tec.mx/en/innovation-and-transformation/bs-in-industrial-engineering&#34;&gt;Department of Industrial Engineering&lt;/a&gt; at &lt;a href=&#34;https://tec.mx/en&#34;&gt;Tecnologico de Monterrey&lt;/a&gt;, and an Adjunct Faculty at the &lt;a href=&#34;https://food-science.uark.edu/index.php&#34;&gt;Department of Food Science&lt;/a&gt; at the &lt;a href=&#34;https://uada.edu/&#34;&gt;University of Arkansas, Division of Agriculture&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Currently, I am a member of the&lt;/p&gt;
@@ -31,6 +31,62 @@
     </item>
     
     <item>
+      <title>Devisree Chukkapalli</title>
+      <link>/authors/devisree-chukkapalli/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/devisree-chukkapalli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Griffiths G. Atungulu</title>
+      <link>/authors/griffiths-g.-atungulu/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/griffiths-g.-atungulu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samuel O. Olaoni</title>
+      <link>/authors/samuel-o.-olaoni/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/samuel-o.-olaoni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kilian M. Rother</title>
+      <link>/authors/kilian-m.-rother/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/kilian-m.-rother/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco V. Charles-Gonzalez</title>
+      <link>/authors/marco-v.-charles-gonzalez/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/marco-v.-charles-gonzalez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anne A. Okeyo</title>
+      <link>/authors/anne-a.-okeyo/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/anne-a.-okeyo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaushik Luthra</title>
+      <link>/authors/kaushik-luthra/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/kaushik-luthra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Eric D. Schoen</title>
       <link>/authors/eric-d.-schoen/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
@@ -43,22 +99,6 @@
       <link>/authors/peter-goos/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
       <guid>/authors/peter-goos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kilian M. Rother</title>
-      <link>/authors/kilian-m.-rother/</link>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/authors/kilian-m.-rother/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marco V. Charles-Gonzalez</title>
-      <link>/authors/marco-v.-charles-gonzalez/</link>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/authors/marco-v.-charles-gonzalez/</guid>
       <description></description>
     </item>
     
@@ -155,30 +195,6 @@
       <link>/authors/hongquan-xu/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/authors/hongquan-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anne A. Okeyo</title>
-      <link>/authors/anne-a.-okeyo/</link>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/anne-a.-okeyo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Griffiths G. Atungulu</title>
-      <link>/authors/griffiths-g.-atungulu/</link>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/griffiths-g.-atungulu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kaushik Luthra</title>
-      <link>/authors/kaushik-luthra/</link>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/kaushik-luthra/</guid>
       <description></description>
     </item>
     
