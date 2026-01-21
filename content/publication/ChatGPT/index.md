@@ -4,7 +4,7 @@ authors:
 - admin 
 - Kilian M. Rother 
 - Marco V. Charles-Gonzalez
-date: "2025-12-18"
+date: "2026-01-18"
 doi: 
 featured: false
 image:
@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-publication: 
+publication: 'Quality Engineering'
 publication_short: 
 publication_types:
 - "2"
