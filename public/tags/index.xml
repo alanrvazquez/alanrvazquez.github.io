@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Tags</title>
@@ -15,8 +15,24 @@
     <item>
       <title>food</title>
       <link>/tags/food/</link>
-      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>/tags/health/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manuscript</title>
+      <link>/tags/manuscript/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/manuscript/</guid>
       <description></description>
     </item>
     
@@ -41,22 +57,6 @@
       <link>/tags/ai/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>manuscript</title>
-      <link>/tags/manuscript/</link>
-      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/manuscript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>health</title>
-      <link>/tags/health/</link>
-      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/health/</guid>
       <description></description>
     </item>
     
