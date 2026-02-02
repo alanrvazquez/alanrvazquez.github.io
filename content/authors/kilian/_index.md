@@ -33,5 +33,5 @@ social:
   link: https://www.linkedin.com/in/kilian-rother-0584aa256/    
 superuser: true
 user_groups:
-- Collaborators
+- Past Collaborators
 ---
