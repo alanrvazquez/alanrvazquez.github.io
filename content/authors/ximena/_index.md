@@ -1,6 +1,6 @@
 ---
 authors:
-- lily
+- ximena
 #bio: 
 education:
   courses:
