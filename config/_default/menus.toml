@@ -22,16 +22,16 @@
   name = "Presentations"
   url = "#talks"
   weight = 40
- 
+
+[[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 50  
+
 [[main]]
   name = "Team"
   url = "#people"
-  weight = 50 
-
-#[[main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 60  
+  weight = 60  
 
 #[[main]]
 #  name = "Memberships"
