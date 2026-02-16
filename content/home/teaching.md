@@ -10,7 +10,7 @@ subtitle: Course materials and slides
 
 - [**IN1002B — Introduction to Data Science Projects**](https://alanrvazquez.github.io/TEC-IN1002B-Website/)
 
-- [**IN2039 - Data Visualization for Decision Making**](https://alanrvazquez.github.io/TEC-IN2039-EN/)
+- [**IN2039 — Data Visualization for Decision Making**](https://alanrvazquez.github.io/TEC-IN2039-EN/)
 
 - [**IN2004B — Generation of Value with Data Analytics**](https://alanrvazquez.github.io/TEC-IN2004B/)
 
