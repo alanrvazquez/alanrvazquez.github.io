@@ -10,9 +10,10 @@ subtitle: Course materials and slides
 
 - [**IN1002B — Introduction to Data Science Projects**](https://alanrvazquez.github.io/TEC-IN1002B-Website/)
 
+- [**IN102032 — Análisis Estadístico de Datos**](https://alanrvazquez.github.io/TEC-IN2032/)
+
 - [**IN2039 — Data Visualization for Decision Making**](https://alanrvazquez.github.io/TEC-IN2039-EN/)
 
 - [**IN2004B — Generation of Value with Data Analytics**](https://alanrvazquez.github.io/TEC-IN2004B/)
-
 
 - [**IN5148 — Statistics and Data Science with Applications in Engineering**](https://alanrvazquez.github.io/TEC-IN5148/)
