@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>effex | Alan R. Vazquez</title>
+    <title>Effex | Alan R. Vazquez</title>
     <link>/tags/effex/</link>
       <atom:link href="/tags/effex/index.xml" rel="self" type="application/rss+xml" />
-    <description>effex</description>
+    <description>Effex</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
-      <title>effex</title>
+      <title>Effex</title>
       <link>/tags/effex/</link>
     </image>
     
