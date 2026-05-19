@@ -1,0 +1,7 @@
+[build]
+  command = "hugo --themesDir themes --theme hugo-academic -D -F"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.125.7"
+  NODE_VERSION = "22"
