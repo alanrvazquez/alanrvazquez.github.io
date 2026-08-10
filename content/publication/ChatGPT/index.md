@@ -5,7 +5,7 @@ authors:
 - Kilian M. Rother 
 - Marco V. Charles-Gonzalez
 date: "2026-01-18"
-doi: 
+doi: "10.1080/08982112.2026.2625951"
 featured: false
 image:
   caption:
@@ -20,7 +20,7 @@ publishDate:
 slides:
 summary:
 tags:
-- manuscript
+- published
 - AI
 title: "A systematic assessment of Large Language Models for constructing two-level fractional factorial designs"
 url_code: "https://github.com/alanrvazquez/LLMforDOE"

@@ -1,26 +1,26 @@
 ---
 authors:
-- lily
+- clarisa
 #bio: 
 education:
   courses:
-  - course: BSc in Industrial Engineering
+  - course: Master in Engineering Management
     institution: Tecnologico de Monterrey
-    year: Aug 2022 - Jun 2026
+    year: Aug 2025 - Dec 2027
 #email: "alanv@uark.edu"
 #interests:
 #- Optimal Design of Experiments
-name: Lily Garcia-Soancatl
+name: Clarisa Seda
 organizations:
 - name: Department of Industrial Engineering
 - name: Tecnologico de Monterrey
   url: "https://tec.mx/es"
-role: Undergraduate Researcher
+role: Graduate Researcher
 social:
 - icon: envelope
   icon_pack: fa
-  link: "mailto:A01736945@tec.mx"
+  link: "mailto:A00845660@tec.mx"
 superuser: true
 user_groups:
-- Alumni
+- Collaborators
 ---

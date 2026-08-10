@@ -19,5 +19,5 @@ social:
   link: "mailto:A01752588@tec.mx"
 superuser: true
 user_groups:
-- Collaborators
+- Alumni
 ---

@@ -5,7 +5,7 @@ authors:
 - Peter Goos
 - Eric D. Schoen
 date: "2026-01-23"
-doi: 
+doi:  "10.1080/00224065.2025.2612371"
 featured: false
 image:
   caption:
@@ -20,7 +20,7 @@ publishDate:
 slides:
 summary:
 tags:
-- manuscript
+- published
 - food
 - health
 title: "Constructing large Orthogonal Minimally Aliased Response Surface designs by concatenating two Definitive Screening Designs"
