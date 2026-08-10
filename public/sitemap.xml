@@ -21,13 +21,37 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/ai/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/duoduo-danny-ying/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/hongquan-xu/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/manuscript/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/oofaprompt/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/concatenationdsds/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
@@ -41,19 +65,10 @@
     <loc>/tags/health/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/manuscript/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/peter-goos/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>/tags/published/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/devisree-chukkapalli/</loc>
@@ -65,9 +80,6 @@
     <loc>/publication/ricetransportation/</loc>
     <lastmod>2026-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/published/</loc>
-    <lastmod>2026-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/rice/</loc>
     <lastmod>2026-01-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -75,9 +87,6 @@
     <lastmod>2026-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/chatgpt/</loc>
-    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/ai/</loc>
     <lastmod>2026-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/kilian-m.-rother/</loc>
@@ -177,9 +186,6 @@
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/computer/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/hongquan-xu/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/drying-air-experiment/</loc>
@@ -432,6 +438,8 @@
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/amit/</loc>
+  </url><url>
+    <loc>/authors/clarisa/</loc>
   </url><url>
     <loc>/authors/diana_mendez/</loc>
   </url><url>

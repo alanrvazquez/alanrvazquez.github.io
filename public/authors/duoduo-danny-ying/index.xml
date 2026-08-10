@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI | Alan R. Vazquez</title>
-    <link>/tags/ai/</link>
-      <atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
-    <description>AI</description>
+    <title>Duoduo Danny Ying | Alan R. Vazquez</title>
+    <link>/authors/duoduo-danny-ying/</link>
+      <atom:link href="/authors/duoduo-danny-ying/index.xml" rel="self" type="application/rss+xml" />
+    <description>Duoduo Danny Ying</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
-      <title>AI</title>
-      <link>/tags/ai/</link>
+      <title>Duoduo Danny Ying</title>
+      <link>/authors/duoduo-danny-ying/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/oofaprompt/</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <guid>/publication/oofaprompt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A systematic assessment of Large Language Models for constructing two-level fractional factorial designs</title>
-      <link>/publication/chatgpt/</link>
-      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/publication/chatgpt/</guid>
       <description></description>
     </item>
     

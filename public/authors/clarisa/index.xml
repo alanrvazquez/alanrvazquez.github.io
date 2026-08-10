@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan R. Vazquez</title>
+    <link>/authors/clarisa/</link>
+      <atom:link href="/authors/clarisa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alan R. Vazquez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Alan R. Vazquez</title>
+      <link>/authors/clarisa/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/clarisa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/clarisa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

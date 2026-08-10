@@ -5,7 +5,7 @@
     <link>/tags/published/</link>
       <atom:link href="/tags/published/index.xml" rel="self" type="application/rss+xml" />
     <description>Published</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Published</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Constructing large Orthogonal Minimally Aliased Response Surface designs by concatenating two Definitive Screening Designs</title>
+      <link>/publication/concatenationdsds/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/concatenationdsds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Impact of Simulated Low-Leakage Enclosure Transportation and Storage Environment on Milled Rice Breakage and Quality Characteristics</title>
       <link>/publication/ricetransportation/</link>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/publication/ricetransportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic assessment of Large Language Models for constructing two-level fractional factorial designs</title>
+      <link>/publication/chatgpt/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/chatgpt/</guid>
       <description></description>
     </item>
     
