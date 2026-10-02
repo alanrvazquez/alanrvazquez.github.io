@@ -20,6 +20,12 @@ font_size = "30"
   icon_pack = "fa"
   name = "Smart Data Collection"
   description = "Statistical design of physical and computer experiments, and clinical trials"
+
+[[feature]]
+  #icon = "language"
+  icon_pack = "fa"
+  name = "Artificial Intelligence"
+  description = "Developing and applying AI methods for prompt engineering, large language models, and data-driven health research."
   
 [[feature]]
   #icon = "brain"
@@ -27,10 +33,4 @@ font_size = "30"
   name = "Applied Optimization"
   description = "Applications of mathematical programming and metaheuristics in statistics"  
   
-[[feature]]
-  #icon = "language"
-  icon_pack = "fa"
-  name = "Data Analytics"
-  description = "Creating value from data using model selection methods"
-
 +++
