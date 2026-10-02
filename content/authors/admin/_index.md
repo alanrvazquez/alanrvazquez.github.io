@@ -47,7 +47,7 @@ I am an Assistant Professor at the [Department of Industrial Engineering](https:
 My service to the scientific community includes:
 
 - Program Chair-Elect (2027-2028) of the [Quality and Productivity Section](https://community.amstat.org/qp/home) of the [American Statistical Association](https://www.amstat.org/). 
-- Member of the Editorial board of [Quality Engineering](https://www.tandfonline.com/journals/lqen20).
+- Member of the Editorial board of [Quality Engineering](https://www.tandfonline.com/journals/lqen20) and [Journal of Quality Technology](https://www.tandfonline.com/journals/ujqt20).
 - Council Member of the [Quality, Statistics, and Reliability section](https://connect.informs.org/qsr/home) of [INFORMS](https://www.informs.org/).
 - Member of the [Sistema Nacional de Investigadoras e Investigadores](https://conahcyt.mx/sistema-nacional-de-investigadores/), Level 1.
 
