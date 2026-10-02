@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Derico Setyabrata | Alan R. Vazquez</title>
+    <link>/authors/derico-setyabrata/</link>
+      <atom:link href="/authors/derico-setyabrata/index.xml" rel="self" type="application/rss+xml" />
+    <description>Derico Setyabrata</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-512.png</url>
+      <title>Derico Setyabrata</title>
+      <link>/authors/derico-setyabrata/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of Shipping Factors to Increase the Profitability of Meat E-Commerce</title>
+      <link>/publication/ecommercemeat/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/ecommercemeat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching | Alan R. Vazquez</title>
+    <title>teaching | Alan R. Vazquez</title>
     <link>/tags/teaching/</link>
       <atom:link href="/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
-    <description>Teaching</description>
+    <description>teaching</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
-      <title>Teaching</title>
+      <title>teaching</title>
       <link>/tags/teaching/</link>
     </image>
     

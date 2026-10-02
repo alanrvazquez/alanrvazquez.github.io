@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Authors</title>
@@ -15,19 +15,59 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am an Assistant Professor at the &lt;a href=&#34;https://tec.mx/en/innovation-and-transformation/bs-in-industrial-engineering&#34;&gt;Department of Industrial Engineering&lt;/a&gt; at &lt;a href=&#34;https://tec.mx/en&#34;&gt;Tecnologico de Monterrey&lt;/a&gt;, and an Adjunct Faculty at the &lt;a href=&#34;https://food-science.uark.edu/index.php&#34;&gt;Department of Food Science&lt;/a&gt; at the &lt;a href=&#34;https://uada.edu/&#34;&gt;University of Arkansas, Division of Agriculture&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;My service to the scientific community includes:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Program Chair-Elect (2027-2028) of the &lt;a href=&#34;https://community.amstat.org/qp/home&#34;&gt;Quality and Productivity Section&lt;/a&gt; of the &lt;a href=&#34;https://www.amstat.org/&#34;&gt;American Statistical Association&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Member of the Editorial board of &lt;a href=&#34;https://www.tandfonline.com/journals/lqen20&#34;&gt;Quality Engineering&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Member of the Editorial board of &lt;a href=&#34;https://www.tandfonline.com/journals/lqen20&#34;&gt;Quality Engineering&lt;/a&gt; and &lt;a href=&#34;https://www.tandfonline.com/journals/ujqt20&#34;&gt;Journal of Quality Technology&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Council Member of the &lt;a href=&#34;https://connect.informs.org/qsr/home&#34;&gt;Quality, Statistics, and Reliability section&lt;/a&gt; of &lt;a href=&#34;https://www.informs.org/&#34;&gt;INFORMS&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Member of the &lt;a href=&#34;https://conahcyt.mx/sistema-nacional-de-investigadores/&#34;&gt;Sistema Nacional de Investigadoras e Investigadores&lt;/a&gt;, Level 1.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;From 2022 to 2023, I was an Assistant Professor at the &lt;a href=&#34;https://industrial-engineering.uark.edu/&#34;&gt;Department of Industrial Engineering&lt;/a&gt; at the &lt;a href=&#34;https://www.uark.edu/&#34;&gt;University of Arkansas&lt;/a&gt;. From 2020 to 2022, I was an Assistant Adjunct Professor at the &lt;a href=&#34;http://statistics.ucla.edu/&#34;&gt;Department of Statistics&lt;/a&gt; at the &lt;a href=&#34;https://ucla.edu/&#34;&gt;University of California, Los Angeles (UCLA)&lt;/a&gt;, and a Junior Postdoctoral Fellow of the Research Foundation Flanders (&lt;a href=&#34;https://www.fwo.be/en/&#34;&gt;FWO&lt;/a&gt;), Belgium. From July 2018 to September 2019, I was a Postdoctoral Researcher at the Department of Biosystems at &lt;a href=&#34;https://www.biw.kuleuven.be/biosyst/english&#34;&gt;KU Leuven&lt;/a&gt;, Belgium. In May 2018, I obtained a Ph.D. in Applied Economics at the &lt;a href=&#34;https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/&#34;&gt;University of Antwerp&lt;/a&gt;, Belgium. The supervisors of my Ph.D. thesis were Prof. &lt;a href=&#34;http://www.experimental-design.eu/who/&#34;&gt;Peter Goos&lt;/a&gt; and Dr. &lt;a href=&#34;http://www.experimental-design.eu/who/&#34;&gt;Eric Schoen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I was born and raised in Monterrey, Nuevo Leon, Mexico.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Karla Isabel Cervantes-Sanmiguel</title>
+      <link>/authors/karla-isabel-cervantes-sanmiguel/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/karla-isabel-cervantes-sanmiguel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weng Kee Wong</title>
+      <link>/authors/weng-kee-wong/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/weng-kee-wong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/ximena/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/ximena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derico Setyabrata</title>
+      <link>/authors/derico-setyabrata/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/derico-setyabrata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Olaoluwaniyi Dahunsi</title>
+      <link>/authors/paul-olaoluwaniyi-dahunsi/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/authors/paul-olaoluwaniyi-dahunsi/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -87,15 +127,15 @@
     </item>
     
     <item>
-      <title>Kilian M. Rother</title>
-      <link>/authors/kilian-m.-rother/</link>
+      <title>killian</title>
+      <link>/authors/killian/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/authors/kilian-m.-rother/</guid>
+      <guid>/authors/killian/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Marco v. Charles-Gonzalez</title>
+      <title>Marco V. Charles-Gonzalez</title>
       <link>/authors/marco-v.-charles-gonzalez/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/authors/marco-v.-charles-gonzalez/</guid>
@@ -115,14 +155,6 @@
       <link>/authors/kaushik-luthra/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/authors/kaushik-luthra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weng-Kee Wong</title>
-      <link>/authors/weng-kee-wong/</link>
-      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/authors/weng-kee-wong/</guid>
       <description></description>
     </item>
     
@@ -512,6 +544,14 @@
     
     <item>
       <title></title>
+      <link>/authors/fernando/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/fernando/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/isaac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/isaac/</guid>
@@ -568,6 +608,14 @@
     
     <item>
       <title></title>
+      <link>/authors/melina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/melina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/siew/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/siew/</guid>
@@ -587,62 +635,6 @@
       <link>/authors/vera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/vera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/ximena/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/ximena/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alumni</title>
-      <link>/authors/alumni/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/alumni/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diana</title>
-      <link>/authors/diana/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/diana/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grad</title>
-      <link>/authors/grad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/grad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Isaaczaragoza</title>
-      <link>/authors/isaaczaragoza/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/isaaczaragoza/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Karlacervantes</title>
-      <link>/authors/karlacervantes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/karlacervantes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visitor</title>
-      <link>/authors/visitor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/visitor/</guid>
       <description></description>
     </item>
     

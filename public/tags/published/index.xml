@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Published | Alan R. Vazquez</title>
+    <title>published | Alan R. Vazquez</title>
     <link>/tags/published/</link>
       <atom:link href="/tags/published/index.xml" rel="self" type="application/rss+xml" />
-    <description>Published</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <description>published</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
-      <title>Published</title>
+      <title>published</title>
       <link>/tags/published/</link>
     </image>
+    
+    <item>
+      <title>Evaluation of Shipping Factors to Increase the Profitability of Meat E-Commerce</title>
+      <link>/publication/ecommercemeat/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/ecommercemeat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Constructing large Orthogonal Minimally Aliased Response Surface designs by concatenating two Definitive Screening Designs</title>

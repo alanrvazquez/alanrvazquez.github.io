@@ -5,12 +5,28 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>A Genetic Algorithm for Constructing Optimal Multi-Arm Clinical Trials for Personalized Medicine</title>
+      <link>/publication/multiarmpm/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/multiarmpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Shipping Factors to Increase the Profitability of Meat E-Commerce</title>
+      <link>/publication/ecommercemeat/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/ecommercemeat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Prompt engineering using order-of-addition experiments: An application to generating two-level fractional factorial designs</title>

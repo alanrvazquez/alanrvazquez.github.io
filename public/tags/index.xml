@@ -5,12 +5,52 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>manuscript</title>
+      <link>/tags/manuscript/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/manuscript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personalizedmedicine</title>
+      <link>/tags/personalizedmedicine/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/personalizedmedicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>application</title>
+      <link>/tags/application/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meat</title>
+      <link>/tags/meat/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/meat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>published</title>
+      <link>/tags/published/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/published/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AI</title>
@@ -21,15 +61,7 @@
     </item>
     
     <item>
-      <title>Manuscript</title>
-      <link>/tags/manuscript/</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/manuscript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Food</title>
+      <title>food</title>
       <link>/tags/food/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/tags/food/</guid>
@@ -37,7 +69,7 @@
     </item>
     
     <item>
-      <title>Health</title>
+      <title>health</title>
       <link>/tags/health/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/tags/health/</guid>
@@ -45,15 +77,7 @@
     </item>
     
     <item>
-      <title>Published</title>
-      <link>/tags/published/</link>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/published/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rice</title>
+      <title>rice</title>
       <link>/tags/rice/</link>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/tags/rice/</guid>
@@ -61,7 +85,7 @@
     </item>
     
     <item>
-      <title>Optimization</title>
+      <title>optimization</title>
       <link>/tags/optimization/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
       <guid>/tags/optimization/</guid>
@@ -69,7 +93,7 @@
     </item>
     
     <item>
-      <title>Engineering</title>
+      <title>engineering</title>
       <link>/tags/engineering/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/tags/engineering/</guid>
@@ -77,7 +101,7 @@
     </item>
     
     <item>
-      <title>Weed</title>
+      <title>weed</title>
       <link>/tags/weed/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/tags/weed/</guid>
@@ -85,7 +109,7 @@
     </item>
     
     <item>
-      <title>Education</title>
+      <title>education</title>
       <link>/tags/education/</link>
       <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
       <guid>/tags/education/</guid>
@@ -93,7 +117,7 @@
     </item>
     
     <item>
-      <title>Teaching</title>
+      <title>teaching</title>
       <link>/tags/teaching/</link>
       <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
       <guid>/tags/teaching/</guid>
@@ -101,7 +125,7 @@
     </item>
     
     <item>
-      <title>Computer</title>
+      <title>computer</title>
       <link>/tags/computer/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/tags/computer/</guid>
@@ -109,7 +133,7 @@
     </item>
     
     <item>
-      <title>Effex</title>
+      <title>effex</title>
       <link>/tags/effex/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/tags/effex/</guid>
@@ -117,7 +141,7 @@
     </item>
     
     <item>
-      <title>FMRI</title>
+      <title>fMRI</title>
       <link>/tags/fmri/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/tags/fmri/</guid>
@@ -125,7 +149,7 @@
     </item>
     
     <item>
-      <title>Medetomidine</title>
+      <title>medetomidine</title>
       <link>/tags/medetomidine/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/tags/medetomidine/</guid>
@@ -133,7 +157,7 @@
     </item>
     
     <item>
-      <title>Rat</title>
+      <title>rat</title>
       <link>/tags/rat/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/tags/rat/</guid>

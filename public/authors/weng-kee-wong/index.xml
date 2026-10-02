@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Weng-Kee Wong | Alan R. Vazquez</title>
+    <title>Weng Kee Wong | Alan R. Vazquez</title>
     <link>/authors/weng-kee-wong/</link>
       <atom:link href="/authors/weng-kee-wong/index.xml" rel="self" type="application/rss+xml" />
-    <description>Weng-Kee Wong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <description>Weng Kee Wong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
-      <title>Weng-Kee Wong</title>
+      <title>Weng Kee Wong</title>
       <link>/authors/weng-kee-wong/</link>
     </image>
+    
+    <item>
+      <title>A Genetic Algorithm for Constructing Optimal Multi-Arm Clinical Trials for Personalized Medicine</title>
+      <link>/publication/multiarmpm/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/multiarmpm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimizing Two-Arm Clinical Trials for Personalized Medicine using Integer Programming and Heuristic Algorithms</title>

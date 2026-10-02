@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Manuscript | Alan R. Vazquez</title>
+    <title>manuscript | Alan R. Vazquez</title>
     <link>/tags/manuscript/</link>
       <atom:link href="/tags/manuscript/index.xml" rel="self" type="application/rss+xml" />
-    <description>Manuscript</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <description>manuscript</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
-      <title>Manuscript</title>
+      <title>manuscript</title>
       <link>/tags/manuscript/</link>
     </image>
+    
+    <item>
+      <title>A Genetic Algorithm for Constructing Optimal Multi-Arm Clinical Trials for Personalized Medicine</title>
+      <link>/publication/multiarmpm/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/multiarmpm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Prompt engineering using order-of-addition experiments: An application to generating two-level fractional factorial designs</title>
