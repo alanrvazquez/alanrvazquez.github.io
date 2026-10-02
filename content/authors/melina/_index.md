@@ -6,7 +6,7 @@ education:
   - course: Bachelor of Engineering
     institution: University of Applied Sciences Kiel
     year: Sep 2023 - June 2027
-name: Kilian Manuel Rother
+name: Melina Bouman
 organizations:
 - name: University of Applied Sciences Kiel
   url: "https://www.fh-kiel.de/en/home/"
