@@ -5,12 +5,20 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alan R. Vazquez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Alan R. Vazquez</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Can Large Language Models Generate Two-Level Fractional Factorial Designs?</title>
+      <link>/talk/informs2026/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>/talk/informs2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Genetic Algorithm for Constructing Optimal Multi-Arm Clinical Trials for Personalized Medicine</title>
